@@ -4,8 +4,8 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="HSsThhxWcU5N_-d6WzTw-0" value="&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; padding: calc(var(--ds-md-zoom)*8px)calc(var(--ds-md-zoom)*12px); text-wrap: wrap; word-break: break-all; color: rgb(73, 73, 73); font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;&lt;span style=&quot;color: rgb(80, 161, 79);&quot; class=&quot;token text string&quot;&gt;Carrier Robot Electrical System Design&lt;/span&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="150" y="60" width="120" height="60" as="geometry" />
+        <mxCell id="HSsThhxWcU5N_-d6WzTw-0" value="&lt;pre style=&quot;font-family: var(--ds-font-family-code); overflow: auto; padding: calc(var(--ds-md-zoom)*8px)calc(var(--ds-md-zoom)*12px); text-wrap: wrap; word-break: break-all; font-size: 12.573px; text-align: start; margin-top: 0px !important; margin-bottom: 0px !important;&quot;&gt;&lt;span style=&quot;&quot; class=&quot;token text string&quot;&gt;&lt;b style=&quot;&quot;&gt;Carrier Robot Electrical System Design&lt;/b&gt;&lt;/span&gt;&lt;/pre&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="60" width="270" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
