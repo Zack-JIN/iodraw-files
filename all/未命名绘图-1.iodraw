@@ -22,10 +22,10 @@
         </mxCell>
         <mxCell id="HSsThhxWcU5N_-d6WzTw-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="500" y="435" as="targetPoint" />
+            <mxPoint x="410" y="480" as="targetPoint" />
             <mxPoint x="460" y="155" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="460" y="435" />
+              <mxPoint x="460" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
