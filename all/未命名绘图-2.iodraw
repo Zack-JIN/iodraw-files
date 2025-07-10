@@ -864,13 +864,13 @@
           <mxGeometry x="1199" y="310" width="743" height="862" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-32" value="Start" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-          <mxGeometry x="1681" y="46" width="95" height="49" as="geometry" />
+          <mxGeometry x="1748" y="46" width="95" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-33" value="Calculate current power P_k and voltage V_k" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
           <mxGeometry x="1611" y="120" width="369" height="115" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-34" value="Calculate ΔV = V_k - V_k-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-          <mxGeometry x="1977" y="348" width="251" height="49" as="geometry" />
+          <mxGeometry x="1977" y="290" width="251" height="107" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-35" value="ΔP &gt; 0" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
           <mxGeometry x="550" y="510" width="117" height="117" as="geometry" />
