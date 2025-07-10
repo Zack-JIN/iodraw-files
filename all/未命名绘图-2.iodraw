@@ -1145,13 +1145,13 @@
           <mxGeometry x="2051" y="1378.5" width="253" height="91.5" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-88" value="Run P&amp;O Algorithm to Get New Duty Cycle" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2052" y="1512.5" width="252" height="66" as="geometry" />
+          <mxGeometry x="2052" y="1496.5" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-89" value="Update PWM Duty Cycle" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2062" y="1628.5" width="232" height="49" as="geometry" />
+          <mxGeometry x="2062" y="1590.5" width="232" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-90" value="Run Device Protection Check" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2069" y="1700.5" width="218" height="66" as="geometry" />
+          <mxGeometry x="2069" y="1698.5" width="218" height="66" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-91" target="oOQrxhuuE26ZWVPikEo7-92">
           <mxGeometry relative="1" as="geometry" />
