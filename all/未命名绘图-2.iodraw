@@ -219,9 +219,6 @@
         <mxCell id="iun0zkY_jCegQsRj5dHX-56" value="运行设备保护检查" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="474" y="2075" width="188" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="iun0zkY_jCegQsRj5dHX-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-57" target="iun0zkY_jCegQsRj5dHX-58">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-57" value="UI状态机与显示逻辑" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="467" y="2174" width="203" height="49" as="geometry" />
         </mxCell>
@@ -229,7 +226,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-58" value="延时100ms" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="632" y="1506" width="137" height="49" as="geometry" />
+          <mxGeometry x="553" y="1506" width="137" height="49" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-59" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=2;fontSize=17;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-42" target="iun0zkY_jCegQsRj5dHX-43">
           <mxGeometry relative="1" as="geometry">
