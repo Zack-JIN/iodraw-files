@@ -1133,7 +1133,7 @@
           <mxGeometry x="1952" y="1056.5" width="128" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-84" value="Loop i=0 to 3" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1945" y="1163.5" width="142" height="142" as="geometry" />
+          <mxGeometry x="1930" y="1163.5" width="157" height="142" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-85" value="Poll and Wait for ADC Conversion Completion" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1706" y="1387.5" width="225" height="66" as="geometry" />
@@ -1158,7 +1158,8 @@
             <Array as="points">
               <mxPoint x="2350" y="1876" />
               <mxPoint x="2350" y="1474" />
-              <mxPoint x="2305" y="1474" />
+              <mxPoint x="2340" y="1474" />
+              <mxPoint x="2340" y="1105" />
             </Array>
           </mxGeometry>
         </mxCell>
