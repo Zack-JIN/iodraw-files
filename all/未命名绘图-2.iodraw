@@ -857,11 +857,11 @@
         <mxCell id="oOQrxhuuE26ZWVPikEo7-29" value="Perturb and Observe Algorithm" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=35;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1110" y="6150" width="2263" height="1758" as="geometry" />
         </mxCell>
-        <mxCell id="oOQrxhuuE26ZWVPikEo7-30" value="Calculate ΔP = P_k - P_k-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-          <mxGeometry x="1445" y="348" width="249" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-31" value="Step Size Adjustment" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
           <mxGeometry x="1199" y="310" width="743" height="862" as="geometry" />
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-30" value="Calculate ΔP = P_k - P_k-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
+          <mxGeometry x="1445" y="348" width="249" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-32" value="Start" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
           <mxGeometry x="1748" y="46" width="95" height="49" as="geometry" />
