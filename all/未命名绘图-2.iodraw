@@ -150,10 +150,11 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iun0zkY_jCegQsRj5dHX-38" value="OK键(选中某项后)" style="curved=1;startArrow=none;;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-12">
+        <mxCell id="iun0zkY_jCegQsRj5dHX-38" value="OK键(选中某项后)" style="curved=1;startArrow=none;;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-0.8295" y="-25" relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="620" y="620" as="targetPoint" />
+            <mxPoint x="660" y="600" as="sourcePoint" />
+            <mxPoint x="620" y="600" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
