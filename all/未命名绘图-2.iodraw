@@ -390,7 +390,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="iun0zkY_jCegQsRj5dHX-246" value="步长 = 0.01" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
-          <mxGeometry x="1245" y="941" width="141" height="49" as="geometry" />
+          <mxGeometry x="1237" y="930" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-247" value="步长 = 0.005" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
           <mxGeometry x="1436" y="941" width="149" height="49" as="geometry" />
