@@ -714,11 +714,11 @@
         <mxCell id="oOQrxhuuE26ZWVPikEo7-0" value="Solar Panel&#xa;(PV Input)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontSize=20;fontStyle=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="420" y="5255" width="161" height="161" as="geometry" />
         </mxCell>
-        <mxCell id="oOQrxhuuE26ZWVPikEo7-1" value="Lithium Battery Pack&#xa;(Battery)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontSize=20;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-1" value="Lithium Battery Pack&#xa;(Battery)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontSize=20;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="663" y="5962" width="165" height="165" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-2" value="DC Load&#xa;(Load)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontSize=20;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1192" y="6008" width="73" height="73" as="geometry" />
+          <mxGeometry x="1192" y="6008" width="102" height="102" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-3" value="STM32G474RE&#xa;Microcontroller" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontSize=20;fontStyle=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="934" y="5290" width="160" height="160" as="geometry" />
