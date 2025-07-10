@@ -322,16 +322,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iun0zkY_jCegQsRj5dHX-79" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.78;exitY=0;entryX=1.01;entryY=0.96;rounded=0;strokeWidth=2;fontSize=17;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-47" target="iun0zkY_jCegQsRj5dHX-44">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="282" y="1579" />
-              <mxPoint x="316" y="1470" />
-            </Array>
-            <mxPoint x="172" y="1650" as="sourcePoint" />
-            <mxPoint x="242" y="1056" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-44" target="iun0zkY_jCegQsRj5dHX-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
