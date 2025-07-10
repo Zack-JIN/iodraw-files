@@ -1153,6 +1153,9 @@
         <mxCell id="oOQrxhuuE26ZWVPikEo7-90" value="Run Device Protection Check" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2069" y="1727.5" width="218" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-91" target="oOQrxhuuE26ZWVPikEo7-92">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-91" value="UI State Machine and Display Logic" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2072" y="1843.5" width="211" height="66" as="geometry" />
         </mxCell>
