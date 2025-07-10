@@ -855,7 +855,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-29" value="Perturb and Observe Algorithm" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=35;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1130" y="6160" width="2263" height="1758" as="geometry" />
+          <mxGeometry x="1170" y="6160" width="2263" height="1758" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-31" value="Step Size Adjustment" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;fontStyle=0" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
           <mxGeometry x="1199" y="310" width="743" height="862" as="geometry" />
@@ -919,10 +919,10 @@
           <mxGeometry x="885.5" y="1400" width="325" height="91" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-49" value="Save P_k and V_k as next P_k-1, V_k-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-          <mxGeometry x="875.5" y="1520" width="340.5" height="90" as="geometry" />
+          <mxGeometry x="877.75" y="1520" width="340.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-50" value="End, return new duty cycle" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-          <mxGeometry x="903.75" y="1650" width="284" height="81" as="geometry" />
+          <mxGeometry x="906" y="1640" width="284" height="81" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;fontSize=35;fontStyle=1" edge="1" parent="oOQrxhuuE26ZWVPikEo7-29" source="oOQrxhuuE26ZWVPikEo7-32" target="oOQrxhuuE26ZWVPikEo7-33">
           <mxGeometry relative="1" as="geometry">
