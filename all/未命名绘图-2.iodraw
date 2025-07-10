@@ -916,10 +916,10 @@
           <mxGeometry x="880" y="1210" width="336" height="132" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-48" value="Duty cycle clipping 0.1 ~ 0.9" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-          <mxGeometry x="925" y="1389" width="325" height="91" as="geometry" />
+          <mxGeometry x="885.5" y="1393" width="325" height="91" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-49" value="Save P_k and V_k as next P_k-1, V_k-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-          <mxGeometry x="923" y="1530" width="241" height="66" as="geometry" />
+          <mxGeometry x="923" y="1530" width="357" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-50" value="End, return new duty cycle" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
           <mxGeometry x="916" y="1672" width="255" height="49" as="geometry" />
