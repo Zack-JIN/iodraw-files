@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1436" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3053" dy="2178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -708,6 +708,149 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1234" y="4241" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-0" value="Solar Panel&#xa;(PV Input)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="516" y="5182" width="94" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-1" value="Lithium Battery Pack&#xa;(Battery)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="692" y="5822" width="165" height="165" as="geometry" />
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-2" value="DC Load&#xa;(Load)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1221" y="5868" width="73" height="73" as="geometry" />
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-3" value="STM32G474RE&#xa;Microcontroller" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="981" y="5167" width="126" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-4" value="Input Control" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="517" y="5365" width="155" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-5" value="Synchronous Buck Converter" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="732" y="5463" width="188" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-6" value="Output Control" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="742" y="5701" width="167" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-7" value="Inductor L2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="755" y="5602" width="141" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-8" value="Voltage Sensing&#xa;(R9,R10,R25,R24)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="5010" width="185" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-9" value="Current Sensing&#xa;(R11 + U9 Op-Amp)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="745" y="5010" width="197" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-10" value="Temperature Sensing&#xa;(NTC Thermistor)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="992" y="5010" width="210" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-11" value="OLED Display" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="770" y="5365" width="153" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-12" value="4x Function Keys" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1252" y="5019" width="180" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-13" value="Cooling Fan" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="973" y="5365" width="143" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-14" value="PV Input" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.42;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-0" target="oOQrxhuuE26ZWVPikEo7-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="563" y="5328" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0;entryY=0.15;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-4" target="oOQrxhuuE26ZWVPikEo7-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="595" y="5438" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-5" target="oOQrxhuuE26ZWVPikEo7-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-7" target="oOQrxhuuE26ZWVPikEo7-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-18" value="Charging" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.38;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-6" target="oOQrxhuuE26ZWVPikEo7-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="775" y="5786" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-19" value="Power Supply" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=1;exitY=0.75;entryX=0.37;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-6" target="oOQrxhuuE26ZWVPikEo7-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1228" y="5786" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-20" value="BUCK_PWM (PB12)&#xa;BUCK_EN (PC6)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=1;entryY=0.3;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-3" target="oOQrxhuuE26ZWVPikEo7-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1219" y="5328" />
+              <mxPoint x="1219" y="5438" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-21" value="INPOW_EN (PC7)" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.71;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-3" target="oOQrxhuuE26ZWVPikEo7-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="677" y="5328" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-22" value="LOAD_OUT (PA8)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.79;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-3" target="oOQrxhuuE26ZWVPikEo7-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1327" y="5328" />
+              <mxPoint x="1327" y="5786" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-23" value="FAN_EN (PB15)" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-3" target="oOQrxhuuE26ZWVPikEo7-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-24" value="I2C (PC8, PC9)" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.74;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-3" target="oOQrxhuuE26ZWVPikEo7-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="846" y="5328" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-25" value="ADC_INU&#xa;ADC_OU" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.37;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-8" target="oOQrxhuuE26ZWVPikEo7-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="603" y="5121" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-26" value="ADC_INI" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.23;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-9" target="oOQrxhuuE26ZWVPikEo7-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="844" y="5121" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-27" value="NTC_TMP" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.75;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-10" target="oOQrxhuuE26ZWVPikEo7-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1097" y="5121" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-28" value="GPIO Input" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.31;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-12" target="oOQrxhuuE26ZWVPikEo7-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1342" y="5121" />
             </Array>
           </mxGeometry>
         </mxCell>
