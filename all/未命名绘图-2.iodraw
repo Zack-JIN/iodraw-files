@@ -857,7 +857,7 @@
         <mxCell id="oOQrxhuuE26ZWVPikEo7-29" value="Perturb and Observe Algorithm" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=35;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1130" y="6160" width="2263" height="1758" as="geometry" />
         </mxCell>
-        <mxCell id="oOQrxhuuE26ZWVPikEo7-31" value="Step Size Adjustment" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=0" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-31" value="Step Size Adjustment" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;fontStyle=0" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
           <mxGeometry x="1199" y="310" width="743" height="862" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-30" value="Calculate ΔP = P_k - P_k-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
@@ -903,7 +903,7 @@
         </mxCell>
         <UserObject label="Medium power change" link="Condition Description" tooltip="Medium power change: |ΔP| &gt; 0.2W" id="oOQrxhuuE26ZWVPikEo7-44">
           <mxCell style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-            <mxGeometry x="1586" y="762" width="209" height="209" as="geometry" />
+            <mxGeometry x="1586" y="760" width="294" height="211" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-45" value="Step size = 0.01" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
