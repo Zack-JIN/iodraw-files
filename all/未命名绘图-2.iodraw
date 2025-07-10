@@ -854,8 +854,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oOQrxhuuE26ZWVPikEo7-29" value="Perturb and Observe Algorithm" style="whiteSpace=wrap;strokeWidth=4;verticalAlign=top;fontSize=35;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1170" y="6160" width="2263" height="1730" as="geometry" />
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-29" value="Perturb and Observe Algorithm" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=35;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1174" y="6160" width="2263" height="1730" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-31" value="Step Size Adjustment" style="whiteSpace=wrap;strokeWidth=2;fontSize=24;fontStyle=0" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
           <mxGeometry x="1199" y="305.06257110352675" width="743" height="848.2707622298066" as="geometry" />
@@ -891,7 +891,7 @@
           <mxGeometry x="625" y="1016.547212741752" width="245" height="123.00910125142207" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-41" value="Direction = Increase duty cycle" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-          <mxGeometry x="921" y="1016.547212741752" width="240" height="123.00910125142207" as="geometry" />
+          <mxGeometry x="922" y="1016.547212741752" width="240" height="123.00910125142207" as="geometry" />
         </mxCell>
         <UserObject label="Large power change" link="Condition Description" tooltip="Large power change: |ΔP| &gt; 1.0W" id="oOQrxhuuE26ZWVPikEo7-42">
           <mxCell style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
