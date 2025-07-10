@@ -855,7 +855,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-29" value="Perturb and Observe Algorithm" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontSize=35;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1110" y="6150" width="2263" height="1758" as="geometry" />
+          <mxGeometry x="1130" y="6160" width="2263" height="1758" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-31" value="Step Size Adjustment" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
           <mxGeometry x="1199" y="310" width="743" height="862" as="geometry" />
@@ -895,7 +895,7 @@
         </mxCell>
         <UserObject label="Large power change" link="Condition Description" tooltip="Large power change: |ΔP| &gt; 1.0W" id="oOQrxhuuE26ZWVPikEo7-42">
           <mxCell style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-            <mxGeometry x="1483" y="472" width="193" height="193" as="geometry" />
+            <mxGeometry x="1436" y="472" width="287" height="238" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-43" value="Step size = 0.02" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
