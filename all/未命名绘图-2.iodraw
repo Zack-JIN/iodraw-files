@@ -393,7 +393,7 @@
           <mxGeometry x="1237" y="930" width="165" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-247" value="步长 = 0.005" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
-          <mxGeometry x="1436" y="941" width="149" height="49" as="geometry" />
+          <mxGeometry x="1436" y="930" width="174" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-248" value="根据方向和步长更新占空比" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
           <mxGeometry x="734" y="1102" width="252" height="49" as="geometry" />
