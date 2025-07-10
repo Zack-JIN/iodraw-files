@@ -340,8 +340,11 @@
         <mxCell id="iun0zkY_jCegQsRj5dHX-232" value="步长调整" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
           <mxGeometry x="991" y="310" width="646" height="717" as="geometry" />
         </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-278" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iun0zkY_jCegQsRj5dHX-230" source="iun0zkY_jCegQsRj5dHX-231" target="iun0zkY_jCegQsRj5dHX-243">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-231" value="计算 ΔP = P_k - P_k-1" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
-          <mxGeometry x="1208.5" y="331.5" width="252" height="82" as="geometry" />
+          <mxGeometry x="1207.5" y="331.5" width="252" height="82" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-233" value="开始" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
           <mxGeometry x="1421" y="46" width="92" height="49" as="geometry" />
@@ -469,13 +472,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="860" y="892" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iun0zkY_jCegQsRj5dHX-262" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.52;exitY=0.99;entryX=0.5;entryY=0;rounded=0;fontStyle=1;fontSize=30;" edge="1" parent="iun0zkY_jCegQsRj5dHX-230" source="iun0zkY_jCegQsRj5dHX-231" target="iun0zkY_jCegQsRj5dHX-243">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1335" y="434" />
             </Array>
           </mxGeometry>
         </mxCell>
