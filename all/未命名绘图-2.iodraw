@@ -337,7 +337,7 @@
         <mxCell id="iun0zkY_jCegQsRj5dHX-230" value="P&amp;O算法" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fontSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="2230" width="1929" height="1577" as="geometry" />
         </mxCell>
-        <mxCell id="iun0zkY_jCegQsRj5dHX-232" value="步长调整" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
+        <mxCell id="iun0zkY_jCegQsRj5dHX-232" value="步长调整" style="whiteSpace=wrap;strokeWidth=2;fontStyle=0;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
           <mxGeometry x="991" y="310" width="646" height="717" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-278" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iun0zkY_jCegQsRj5dHX-230" source="iun0zkY_jCegQsRj5dHX-231" target="iun0zkY_jCegQsRj5dHX-243">
@@ -382,7 +382,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="iun0zkY_jCegQsRj5dHX-244" value="步长 = 0.02" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
-          <mxGeometry x="1054" y="941" width="141" height="49" as="geometry" />
+          <mxGeometry x="1020" y="930" width="175" height="60" as="geometry" />
         </mxCell>
         <UserObject label="功率变化中等" link="条件说明" tooltip="功率变化中等: |ΔP| &gt; 0.2W" id="iun0zkY_jCegQsRj5dHX-245">
           <mxCell style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
