@@ -23,19 +23,19 @@
           <mxGeometry x="55" y="603" width="207" height="69" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-12" value="SettingsMenu" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;startSize=25;container=0;collapsible=0;rounded=1;arcSize=14;dropTarget=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="658" y="196" width="462" height="804" as="geometry" />
+          <mxGeometry x="659" y="84" width="462" height="804" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-13" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="899" y="266" width="14" height="14" as="geometry" />
+          <mxGeometry x="769" y="166.5" width="14" height="14" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-14" value="MenuList" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="973" y="620" width="80" height="35" as="geometry" />
+          <mxGeometry x="843" y="520.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-15" value="在此界面，用户可以&#xa;上下选择要设置的参数，&#xa;如&quot;Load Output&quot;或&quot;Fan Temp ON&quot;。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1140" y="196" width="280" height="154" as="geometry" />
+          <mxGeometry x="1010" y="96.5" width="280" height="154" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-16" value="在此界面，用户可以&#xa;上下选择要设置的参数，&#xa;如&quot;Load Output&quot;或&quot;Fan Temp ON&quot;。" style="align=left;spacingLeft=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1175" y="221" width="210" height="104" as="geometry" />
+          <mxGeometry x="1045" y="121.5" width="210" height="104" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-17" value="EditParameter" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;startSize=25;container=0;collapsible=0;rounded=1;arcSize=14;dropTarget=0;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="490" width="291" height="380" as="geometry" />
@@ -80,10 +80,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-26" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="890" y="902" as="geometry" />
+          <mxGeometry x="760" y="802.5" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-27" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1012" y="975" as="geometry" />
+          <mxGeometry x="882" y="875.5" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-28" value="" style="curved=1;startArrow=none;;exitX=0;exitY=1;entryX=0.51;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-8" target="iun0zkY_jCegQsRj5dHX-9">
           <mxGeometry relative="1" as="geometry">
@@ -100,39 +100,39 @@
         <mxCell id="iun0zkY_jCegQsRj5dHX-30" value="" style="curved=1;startArrow=none;;exitX=1;exitY=0.88;entryX=0.48;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-13" target="iun0zkY_jCegQsRj5dHX-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1003" y="350" />
-              <mxPoint x="1003" y="422" />
+              <mxPoint x="873" y="250.5" />
+              <mxPoint x="873" y="322.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-31" value="" style="curved=1;startArrow=none;endArrow=none;exitX=0.37;exitY=0.99;entryX=-Infinity;entryY=-Infinity;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-14" target="iun0zkY_jCegQsRj5dHX-26">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="890" y="852" />
+              <mxPoint x="760" y="752.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-32" value="LEFT/RIGHT键(切换菜单项)" style="curved=1;startArrow=none;endArrow=none;exitX=-Infinity;exitY=Infinity;entryX=Infinity;entryY=-Infinity;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-26" target="iun0zkY_jCegQsRj5dHX-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="890" y="938" />
+              <mxPoint x="760" y="838.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-33" value="" style="curved=1;startArrow=none;;exitX=Infinity;exitY=-Infinity;entryX=0.55;entryY=0.99;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-27" target="iun0zkY_jCegQsRj5dHX-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1072" y="938" />
-              <mxPoint x="1072" y="852" />
+              <mxPoint x="942" y="838.5" />
+              <mxPoint x="942" y="752.5" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-34" value="" style="curved=1;dashed=1;startArrow=none;;exitX=0.5;exitY=1;entryX=0.55;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-16" target="iun0zkY_jCegQsRj5dHX-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1280" y="350" />
-              <mxPoint x="1072" y="386" />
-              <mxPoint x="1072" y="422" />
+              <mxPoint x="1150" y="250.5" />
+              <mxPoint x="942" y="286.5" />
+              <mxPoint x="942" y="322.5" />
             </Array>
           </mxGeometry>
         </mxCell>
