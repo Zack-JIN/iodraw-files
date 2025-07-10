@@ -655,11 +655,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-300" value="INPOW_EN (PC7)" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.81;entryY=0.01;rounded=0;fontStyle=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-282" target="iun0zkY_jCegQsRj5dHX-283">
-          <mxGeometry x="0.0427" y="-9" relative="1" as="geometry">
+          <mxGeometry x="-0.0761" y="-14" relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="637" y="4437" />
+              <mxPoint x="630" y="4380" />
             </Array>
-            <mxPoint x="1" as="offset" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-301" value="LOAD_OUT (PA8)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.76;entryY=0;rounded=0;fontStyle=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-282" target="iun0zkY_jCegQsRj5dHX-281">
