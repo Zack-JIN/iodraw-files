@@ -916,13 +916,13 @@
           <mxGeometry x="880" y="1210" width="336" height="132" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-48" value="Duty cycle clipping 0.1 ~ 0.9" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-          <mxGeometry x="885.5" y="1393" width="325" height="91" as="geometry" />
+          <mxGeometry x="885.5" y="1400" width="325" height="91" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-49" value="Save P_k and V_k as next P_k-1, V_k-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
           <mxGeometry x="875.5" y="1520" width="340.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-50" value="End, return new duty cycle" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-          <mxGeometry x="916" y="1640" width="284" height="81" as="geometry" />
+          <mxGeometry x="903.75" y="1650" width="284" height="81" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-51" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;fontSize=35;fontStyle=1" edge="1" parent="oOQrxhuuE26ZWVPikEo7-29" source="oOQrxhuuE26ZWVPikEo7-32" target="oOQrxhuuE26ZWVPikEo7-33">
           <mxGeometry relative="1" as="geometry">
