@@ -565,7 +565,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iun0zkY_jCegQsRj5dHX-279" value="太阳能电池板&#xa;(PV Input)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="iun0zkY_jCegQsRj5dHX-279" value="太阳能电池板&#xa;(PV Input)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fontSize=18;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="473" y="4288" width="111" height="111" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-280" value="锂电池组&#xa;(Battery)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -655,11 +655,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-300" value="INPOW_EN (PC7)" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.81;entryY=0.01;rounded=0;fontStyle=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-282" target="iun0zkY_jCegQsRj5dHX-283">
-          <mxGeometry x="-0.0761" y="-14" relative="1" as="geometry">
+          <mxGeometry x="-0.1713" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="630" y="4380" />
             </Array>
-            <mxPoint as="offset" />
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-301" value="LOAD_OUT (PA8)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.76;entryY=0;rounded=0;fontStyle=1;fontSize=18;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-282" target="iun0zkY_jCegQsRj5dHX-281">
