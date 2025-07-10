@@ -378,7 +378,7 @@
         </mxCell>
         <UserObject label="功率变化大" link="条件说明" tooltip="功率变化大: |ΔP| &gt; 1.0W" id="iun0zkY_jCegQsRj5dHX-243">
           <mxCell style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
-            <mxGeometry x="1270" y="472" width="129" height="129" as="geometry" />
+            <mxGeometry x="1223.5" y="460" width="220" height="178" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="iun0zkY_jCegQsRj5dHX-244" value="步长 = 0.02" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
