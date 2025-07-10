@@ -402,10 +402,10 @@
           <mxGeometry x="756" y="1210" width="208" height="90" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-250" value="保存 P_k 和 V_k 为下一次的 P_k-1, V_k-1" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
-          <mxGeometry x="731" y="1320" width="259" height="95" as="geometry" />
+          <mxGeometry x="731" y="1320" width="259" height="120" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-251" value="结束，返回新占空比" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
-          <mxGeometry x="758" y="1491" width="204" height="49" as="geometry" />
+          <mxGeometry x="758" y="1460" width="204" height="100" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-252" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.98;entryX=0.5;entryY=0;rounded=0;fontStyle=1;fontSize=30;" edge="1" parent="iun0zkY_jCegQsRj5dHX-230" source="iun0zkY_jCegQsRj5dHX-233" target="iun0zkY_jCegQsRj5dHX-234">
           <mxGeometry relative="1" as="geometry">
