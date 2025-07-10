@@ -352,7 +352,7 @@
         <mxCell id="iun0zkY_jCegQsRj5dHX-234" value="计算当前功率 P_k 和 电压 V_k" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
           <mxGeometry x="1334.5" y="150" width="265" height="95" as="geometry" />
         </mxCell>
-        <mxCell id="iun0zkY_jCegQsRj5dHX-235" value="计算 ΔV = V_k - V_k-1" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
+        <mxCell id="iun0zkY_jCegQsRj5dHX-235" value="计算 ΔV = &#xa;V_k - V_k-1" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
           <mxGeometry x="1650" y="348" width="237" height="92" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-236" value="ΔP &gt; 0" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
