@@ -574,8 +574,8 @@
         <mxCell id="iun0zkY_jCegQsRj5dHX-281" value="直流负载&#xa;(Load)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1173" y="4914" width="79" height="79" as="geometry" />
         </mxCell>
-        <mxCell id="iun0zkY_jCegQsRj5dHX-282" value="STM32G474RE&#xa;微控制器" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="924" y="4287" width="114" height="114" as="geometry" />
+        <mxCell id="iun0zkY_jCegQsRj5dHX-282" value="STM32G474RE&#xa;微控制器" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="924" y="4287" width="133" height="133" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-283" value="输入控制" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="481" y="4473" width="124" height="49" as="geometry" />
