@@ -861,7 +861,7 @@
           <mxGeometry x="1199" y="310" width="743" height="862" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-30" value="Calculate ΔP = P_k - P_k-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-          <mxGeometry x="1445" y="348" width="249" height="49" as="geometry" />
+          <mxGeometry x="1422" y="340" width="315" height="102" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-32" value="Start" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
           <mxGeometry x="1748" y="46" width="95" height="49" as="geometry" />
