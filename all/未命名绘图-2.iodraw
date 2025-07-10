@@ -159,7 +159,7 @@
         <mxCell id="iun0zkY_jCegQsRj5dHX-39" value="BACK键或OK键(保存)" style="curved=1;startArrow=none;;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-17">
           <mxGeometry x="-1" y="-43" relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="650" y="630" as="targetPoint" />
+            <mxPoint x="660" y="620" as="targetPoint" />
             <mxPoint x="-3" as="offset" />
           </mxGeometry>
         </mxCell>
