@@ -1107,7 +1107,7 @@
           <mxGeometry x="1808" y="621" width="160" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-78" value="Check Input Power (INPOWER)" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1797" y="702.5" width="200" height="200" as="geometry" />
+          <mxGeometry x="1788" y="710" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-79" value="Stop System Operation" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1610" y="948.5" width="223" height="49" as="geometry" />
@@ -1243,13 +1243,6 @@
         <mxCell id="oOQrxhuuE26ZWVPikEo7-109" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;fontStyle=1;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-90" target="oOQrxhuuE26ZWVPikEo7-91">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oOQrxhuuE26ZWVPikEo7-110" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.01;rounded=0;strokeWidth=2;fontStyle=1;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-91" target="oOQrxhuuE26ZWVPikEo7-92">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2178" y="1934.5" />
-            </Array>
           </mxGeometry>
         </mxCell>
       </root>
