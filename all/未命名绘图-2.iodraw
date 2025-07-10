@@ -876,7 +876,7 @@
           <mxGeometry x="440" y="460" width="227" height="167" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-36" value="ΔV &gt; 0" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-          <mxGeometry x="255" y="808" width="117" height="117" as="geometry" />
+          <mxGeometry x="255" y="780" width="175" height="145" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-37" value="Direction = Increase duty cycle" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
           <mxGeometry x="43" y="1069" width="240" height="66" as="geometry" />
@@ -910,7 +910,7 @@
           <mxGeometry x="1486" y="1040" width="173" height="87" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-46" value="Step size = 0.005" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-          <mxGeometry x="1709" y="1078" width="181" height="49" as="geometry" />
+          <mxGeometry x="1709" y="1040" width="181" height="87" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-47" value="Update duty cycle based on direction and step size" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
           <mxGeometry x="914" y="1248" width="259" height="66" as="geometry" />
