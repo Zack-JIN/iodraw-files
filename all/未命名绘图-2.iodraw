@@ -356,10 +356,10 @@
           <mxGeometry x="1650" y="348" width="237" height="92" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-236" value="ΔP &gt; 0" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
-          <mxGeometry x="340" y="410" width="235" height="185" as="geometry" />
+          <mxGeometry x="360" y="453" width="235" height="185" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-237" value="ΔV &gt; 0" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
-          <mxGeometry x="217" y="712" width="117" height="117" as="geometry" />
+          <mxGeometry x="190" y="710" width="144" height="119" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-238" value="方向 = 增加占空比" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
           <mxGeometry x="43" y="941" width="191" height="49" as="geometry" />
