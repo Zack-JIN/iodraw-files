@@ -1141,7 +1141,7 @@
         <mxCell id="oOQrxhuuE26ZWVPikEo7-86" value="Read ADC Value" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1830" y="1520.5" width="171" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="oOQrxhuuE26ZWVPikEo7-87" value="Process Data: Calculate Voltage/Current/Power/Temperature" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-87" value="Process Data: Calculate Voltage/Current/&#xa;Power/Temperature" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2051" y="1378.5" width="253" height="91.5" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-88" value="Run P&amp;O Algorithm to Get New Duty Cycle" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
