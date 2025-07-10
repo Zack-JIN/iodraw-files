@@ -879,19 +879,19 @@
           <mxGeometry x="240" y="780" width="175" height="145" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-37" value="Direction = Increase duty cycle" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-          <mxGeometry x="43" y="1010" width="240" height="125" as="geometry" />
+          <mxGeometry x="40" y="1020" width="240" height="125" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-38" value="Direction = Decrease duty cycle" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-          <mxGeometry x="333" y="1010" width="245" height="125" as="geometry" />
+          <mxGeometry x="330" y="1020" width="245" height="125" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-39" value="ΔV &gt; 0" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
           <mxGeometry x="780" y="780" width="180" height="145" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-40" value="Direction = Decrease duty cycle" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-          <mxGeometry x="628" y="1010" width="245" height="125" as="geometry" />
+          <mxGeometry x="625" y="1020" width="245" height="125" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-41" value="Direction = Increase duty cycle" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-          <mxGeometry x="924" y="1069" width="240" height="66" as="geometry" />
+          <mxGeometry x="921" y="1020" width="240" height="125" as="geometry" />
         </mxCell>
         <UserObject label="Large power change" link="Condition Description" tooltip="Large power change: |ΔP| &gt; 1.0W" id="oOQrxhuuE26ZWVPikEo7-42">
           <mxCell style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
