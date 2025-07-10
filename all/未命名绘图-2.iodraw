@@ -916,7 +916,7 @@
           <mxGeometry x="880" y="1210" width="336" height="132" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-48" value="Duty cycle clipping 0.1 ~ 0.9" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-          <mxGeometry x="925" y="1389" width="237" height="66" as="geometry" />
+          <mxGeometry x="925" y="1389" width="325" height="91" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-49" value="Save P_k and V_k as next P_k-1, V_k-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
           <mxGeometry x="923" y="1530" width="241" height="66" as="geometry" />
@@ -1055,11 +1055,16 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oOQrxhuuE26ZWVPikEo7-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.05;rounded=0;fontSize=35;fontStyle=1" edge="1" parent="oOQrxhuuE26ZWVPikEo7-29" source="oOQrxhuuE26ZWVPikEo7-43" target="oOQrxhuuE26ZWVPikEo7-47">
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-70" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.25;rounded=0;fontSize=35;fontStyle=1;entryDx=0;entryDy=0;" edge="1" parent="oOQrxhuuE26ZWVPikEo7-29" source="oOQrxhuuE26ZWVPikEo7-43" target="oOQrxhuuE26ZWVPikEo7-47">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1349" y="1210" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-112" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="oOQrxhuuE26ZWVPikEo7-70">
+          <mxGeometry x="0.8563" y="10" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-71" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;rounded=0;fontSize=35;fontStyle=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="oOQrxhuuE26ZWVPikEo7-29" source="oOQrxhuuE26ZWVPikEo7-45" target="oOQrxhuuE26ZWVPikEo7-47">
