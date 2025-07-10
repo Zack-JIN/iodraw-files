@@ -332,6 +332,9 @@
             <mxPoint x="242" y="1056" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-83" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-44" target="iun0zkY_jCegQsRj5dHX-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-44" value="检查输入电源 (INPOWER)" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=17;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="143" y="1130" width="227" height="227" as="geometry" />
         </mxCell>
