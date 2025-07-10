@@ -371,7 +371,7 @@
           <mxGeometry x="698" y="700" width="142" height="129" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-241" value="方向 = 减小占空比" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
-          <mxGeometry x="524" y="941" width="191" height="49" as="geometry" />
+          <mxGeometry x="524" y="900" width="176" height="90" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-242" value="方向 = 增加占空比" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
           <mxGeometry x="765" y="941" width="191" height="49" as="geometry" />
