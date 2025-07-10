@@ -1104,13 +1104,16 @@
           <mxGeometry x="1808" y="621" width="160" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-78" value="Check Input Power (INPOWER)" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1621" y="675.5" width="200" height="200" as="geometry" />
+          <mxGeometry x="1797" y="702.5" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-79" value="Stop System Operation" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1610" y="948.5" width="223" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-80" value="Display Standby Information" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1635" y="1047.5" width="173" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="oOQrxhuuE26ZWVPikEo7-114" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-81" target="oOQrxhuuE26ZWVPikEo7-77">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-81" value="Delay 200ms" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1647" y="1210.5" width="150" height="49" as="geometry" />
