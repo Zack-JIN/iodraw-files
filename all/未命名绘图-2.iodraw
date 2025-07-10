@@ -337,7 +337,7 @@
         <mxCell id="iun0zkY_jCegQsRj5dHX-230" value="P&amp;O算法" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fontStyle=1;fontSize=30;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="2230" width="1929" height="1577" as="geometry" />
         </mxCell>
-        <mxCell id="iun0zkY_jCegQsRj5dHX-232" value="步长调整" style="whiteSpace=wrap;strokeWidth=2;fontStyle=0;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
+        <mxCell id="iun0zkY_jCegQsRj5dHX-232" value="步长调整" style="whiteSpace=wrap;strokeWidth=2;fontStyle=0;fontSize=28;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
           <mxGeometry x="991" y="310" width="646" height="717" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-278" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iun0zkY_jCegQsRj5dHX-230" source="iun0zkY_jCegQsRj5dHX-231" target="iun0zkY_jCegQsRj5dHX-243">
@@ -356,7 +356,7 @@
           <mxGeometry x="1650" y="348" width="237" height="92" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-236" value="ΔP &gt; 0" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
-          <mxGeometry x="458" y="478" width="117" height="117" as="geometry" />
+          <mxGeometry x="340" y="410" width="235" height="185" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-237" value="ΔV &gt; 0" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fontSize=30;" vertex="1" parent="iun0zkY_jCegQsRj5dHX-230">
           <mxGeometry x="217" y="712" width="117" height="117" as="geometry" />
