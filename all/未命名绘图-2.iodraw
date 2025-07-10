@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3053" dy="2178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -1142,7 +1142,7 @@
           <mxGeometry x="1830" y="1520.5" width="171" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-87" value="Process Data: Calculate Voltage/Current/Power/Temperature" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2051" y="1378.5" width="253" height="84" as="geometry" />
+          <mxGeometry x="2051" y="1378.5" width="253" height="91.5" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-88" value="Run P&amp;O Algorithm to Get New Duty Cycle" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2052" y="1512.5" width="252" height="66" as="geometry" />
@@ -1154,7 +1154,13 @@
           <mxGeometry x="2069" y="1727.5" width="218" height="66" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-91" target="oOQrxhuuE26ZWVPikEo7-92">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2350" y="1876" />
+              <mxPoint x="2350" y="1474" />
+              <mxPoint x="2305" y="1474" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-91" value="UI State Machine and Display Logic" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2072" y="1843.5" width="211" height="66" as="geometry" />
