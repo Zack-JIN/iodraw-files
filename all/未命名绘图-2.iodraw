@@ -1151,13 +1151,13 @@
           <mxGeometry x="2062" y="1590.5" width="232" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-90" value="Run Device Protection Check" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2069" y="1698.5" width="218" height="66" as="geometry" />
+          <mxGeometry x="2069" y="1667.5" width="218" height="66" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-91" target="oOQrxhuuE26ZWVPikEo7-92">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-91" value="UI State Machine and Display Logic" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2072" y="1826.5" width="211" height="66" as="geometry" />
+          <mxGeometry x="2072" y="1765.5" width="211" height="66" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-92" target="oOQrxhuuE26ZWVPikEo7-77">
           <mxGeometry relative="1" as="geometry" />
