@@ -867,7 +867,7 @@
           <mxGeometry x="1748" y="45.267349260523325" width="95" height="48.219567690557454" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-33" value="Calculate current power P_k and voltage V_k" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-          <mxGeometry x="1611" y="118.08873720136519" width="369" height="113.1683731513083" as="geometry" />
+          <mxGeometry x="1611" y="118.09" width="369" height="131.91" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-34" value="Calculate ΔV = V_k - V_k-1" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
           <mxGeometry x="1977" y="285.3811149032992" width="251" height="105.29579067121729" as="geometry" />
