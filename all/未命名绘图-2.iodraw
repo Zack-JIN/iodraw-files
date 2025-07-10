@@ -32,10 +32,10 @@
           <mxGeometry x="843" y="520.5" width="80" height="35" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-15" value="在此界面，用户可以&#xa;上下选择要设置的参数，&#xa;如&quot;Load Output&quot;或&quot;Fan Temp ON&quot;。" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1130" y="109" width="280" height="154" as="geometry" />
+          <mxGeometry x="360" y="109" width="280" height="154" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-16" value="在此界面，用户可以&#xa;上下选择要设置的参数，&#xa;如&quot;Load Output&quot;或&quot;Fan Temp ON&quot;。" style="align=left;spacingLeft=4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1165" y="134" width="210" height="104" as="geometry" />
+          <mxGeometry x="395" y="134" width="210" height="104" as="geometry" />
         </mxCell>
         <mxCell id="iun0zkY_jCegQsRj5dHX-17" value="EditParameter" style="swimlane;fontStyle=1;align=center;verticalAlign=middle;startSize=25;container=0;collapsible=0;rounded=1;arcSize=14;dropTarget=0;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="330" y="440" width="291" height="380" as="geometry" />
