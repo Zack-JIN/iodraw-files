@@ -879,7 +879,7 @@
           <mxGeometry x="240" y="780" width="175" height="145" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-37" value="Direction = Increase duty cycle" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-          <mxGeometry x="43" y="1069" width="240" height="66" as="geometry" />
+          <mxGeometry x="43" y="1010" width="240" height="125" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-38" value="Direction = Decrease duty cycle" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
           <mxGeometry x="333" y="1069" width="245" height="66" as="geometry" />
