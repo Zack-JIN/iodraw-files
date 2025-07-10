@@ -899,7 +899,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-43" value="Step size = 0.02" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-          <mxGeometry x="1263" y="1078" width="173" height="49" as="geometry" />
+          <mxGeometry x="1250" y="1040" width="186" height="87" as="geometry" />
         </mxCell>
         <UserObject label="Medium power change" link="Condition Description" tooltip="Medium power change: |ΔP| &gt; 0.2W" id="oOQrxhuuE26ZWVPikEo7-44">
           <mxCell style="rhombus;strokeWidth=2;whiteSpace=wrap;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
@@ -907,7 +907,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-45" value="Step size = 0.01" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
-          <mxGeometry x="1486" y="1078" width="173" height="49" as="geometry" />
+          <mxGeometry x="1486" y="1040" width="173" height="87" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-46" value="Step size = 0.005" style="whiteSpace=wrap;strokeWidth=2;fontSize=35;fontStyle=1" vertex="1" parent="oOQrxhuuE26ZWVPikEo7-29">
           <mxGeometry x="1709" y="1078" width="181" height="49" as="geometry" />
