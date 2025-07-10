@@ -250,7 +250,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iun0zkY_jCegQsRj5dHX-65" value="有电源" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.79;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;fontSize=17;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-44" target="iun0zkY_jCegQsRj5dHX-48">
+        <mxCell id="iun0zkY_jCegQsRj5dHX-65" value="有电源" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;fontSize=17;fontStyle=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-44" target="iun0zkY_jCegQsRj5dHX-48">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="395" y="1371" />
