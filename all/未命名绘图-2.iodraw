@@ -1098,10 +1098,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-76" value="Start" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1747" y="478.5" width="95" height="49" as="geometry" />
+          <mxGeometry x="1840.5" y="550" width="95" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-77" value="While Cycle" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1760" y="577.5" width="160" height="49" as="geometry" />
+          <mxGeometry x="1808" y="621" width="160" height="49" as="geometry" />
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-78" value="Check Input Power (INPOWER)" style="rhombus;strokeWidth=2;whiteSpace=wrap;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1621" y="675.5" width="200" height="200" as="geometry" />
@@ -1153,13 +1153,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oOQrxhuuE26ZWVPikEo7-94" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.96;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;fontStyle=1;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-77" target="oOQrxhuuE26ZWVPikEo7-78">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1721" y="650.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-95" value="No Power" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;fontStyle=1;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-78" target="oOQrxhuuE26ZWVPikEo7-79">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -1173,14 +1166,6 @@
         <mxCell id="oOQrxhuuE26ZWVPikEo7-97" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;fontStyle=1;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-80" target="oOQrxhuuE26ZWVPikEo7-81">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oOQrxhuuE26ZWVPikEo7-98" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.74;exitY=0;entryX=1;entryY=0.96;rounded=0;strokeWidth=2;fontStyle=1;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-81" target="oOQrxhuuE26ZWVPikEo7-77">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1868" y="1138.5" />
-              <mxPoint x="1868" y="650.5" />
-            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oOQrxhuuE26ZWVPikEo7-99" value="Power Available" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.73;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;fontStyle=1;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-78" target="oOQrxhuuE26ZWVPikEo7-82">
@@ -1253,14 +1238,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="2178" y="1934.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="oOQrxhuuE26ZWVPikEo7-111" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.52;exitY=0;entryX=1;entryY=0.55;rounded=0;strokeWidth=2;fontStyle=1;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oOQrxhuuE26ZWVPikEo7-92" target="oOQrxhuuE26ZWVPikEo7-77">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2339" y="1934.5" />
-              <mxPoint x="2339" y="650.5" />
             </Array>
           </mxGeometry>
         </mxCell>
