@@ -565,6 +565,149 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-279" value="太阳能电池板&#xa;(PV Input)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="3988" width="111" height="111" as="geometry" />
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-280" value="锂电池组&#xa;(Battery)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="258" y="4613" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-281" value="直流负载&#xa;(Load)" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="4614" width="79" height="79" as="geometry" />
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-282" value="STM32G474RE&#xa;微控制器" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="471" y="3987" width="114" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-283" value="输入控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="28" y="4173" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-284" value="同步Buck变换器" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="239" y="4272" width="174" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-285" value="输出控制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="264" y="4492" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-286" value="电感 L2" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="269" y="4393" width="113" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-287" value="电压采样&#xa;(R9,R10,R25,R24)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="42" y="3830" width="185" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-288" value="电流采样&#xa;(R11 + U9运放)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="277" y="3830" width="167" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-289" value="温度采样&#xa;(NTC热敏电阻)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="494" y="3830" width="165" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-290" value="OLED显示屏" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="271" y="4173" width="145" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-291" value="4x 功能按键" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="709" y="3839" width="145" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-292" value="散热风扇" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="466" y="4173" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-293" value="PV输入" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.5;exitY=1;entryX=0.45;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-279" target="iun0zkY_jCegQsRj5dHX-283">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="76" y="4137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-294" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.12;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-283" target="iun0zkY_jCegQsRj5dHX-284">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="90" y="4247" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-295" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-284" target="iun0zkY_jCegQsRj5dHX-286">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-296" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-286" target="iun0zkY_jCegQsRj5dHX-285">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-297" value="充电" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=0.41;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-285" target="iun0zkY_jCegQsRj5dHX-280">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="298" y="4577" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-298" value="供电" style="curved=1;startArrow=none;endArrow=block;strokeWidth=3;exitX=1;exitY=0.69;entryX=0.23;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-285" target="iun0zkY_jCegQsRj5dHX-281">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="718" y="4577" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-299" value="BUCK_PWM (PB12)&#xa;BUCK_EN (PC6)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=1;entryY=0.26;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-282" target="iun0zkY_jCegQsRj5dHX-284">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="693" y="4137" />
+              <mxPoint x="693" y="4247" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-300" value="INPOW_EN (PC7)" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.63;entryX=0.81;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-282" target="iun0zkY_jCegQsRj5dHX-283">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="184" y="4137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-301" value="LOAD_OUT (PA8)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.76;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-282" target="iun0zkY_jCegQsRj5dHX-281">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="798" y="4137" />
+              <mxPoint x="798" y="4577" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-302" value="FAN_EN (PB15)" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-282" target="iun0zkY_jCegQsRj5dHX-292">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-303" value="I2C (PC8, PC9)" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-282" target="iun0zkY_jCegQsRj5dHX-290">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="344" y="4137" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-304" value="ADC_INU&#xa;ADC_OU" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.37;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-287" target="iun0zkY_jCegQsRj5dHX-282">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="134" y="3941" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-305" value="ADC_INI" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.19;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-288" target="iun0zkY_jCegQsRj5dHX-282">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="3941" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-306" value="NTC_TMP" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.74;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-289" target="iun0zkY_jCegQsRj5dHX-282">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="576" y="3941" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iun0zkY_jCegQsRj5dHX-307" value="GPIO Input" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=1;entryY=0.29;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="iun0zkY_jCegQsRj5dHX-291" target="iun0zkY_jCegQsRj5dHX-282">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="781" y="3941" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
