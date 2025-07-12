@@ -358,10 +358,10 @@
           <mxGeometry x="1108" y="1970" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-107" value="Fluid Mechanics" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1332" y="1970" width="173" height="49" as="geometry" />
+          <mxGeometry x="1440" y="1710" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-108" value="Thermodynamics" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1555" y="1970" width="182" height="49" as="geometry" />
+          <mxGeometry x="1648" y="1810" width="182" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-109" value="Mechanical Structures" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="2077" width="219" height="49" as="geometry" />
@@ -382,18 +382,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1195" y="1945" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-115" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.49;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-105" target="dbyF8KKO8Ka1DICQkb-6-107">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-116" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.65;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-105" target="dbyF8KKO8Ka1DICQkb-6-108">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1646" y="1945" />
             </Array>
           </mxGeometry>
         </mxCell>
