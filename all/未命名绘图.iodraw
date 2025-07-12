@@ -511,6 +511,49 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-153" value="Internal Defects" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1943" y="2700" width="175" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-154" value="Dislocation and Slip" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1930" y="2799" width="200" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-155" value="Initial Crack （Micro-crack）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1943" y="2897" width="175" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-156" value="Macro-crack" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1956" y="3014" width="148" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-157" value="Crack Propagation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1935" y="3112" width="190" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-158" value="Brittle Fracture" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1944" y="3211" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-159" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-153" target="dbyF8KKO8Ka1DICQkb-6-154">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-160" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-154" target="dbyF8KKO8Ka1DICQkb-6-155">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-161" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-155" target="dbyF8KKO8Ka1DICQkb-6-156">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-162" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-156" target="dbyF8KKO8Ka1DICQkb-6-157">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-163" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-157" target="dbyF8KKO8Ka1DICQkb-6-158">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
