@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3577" dy="2489" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="835" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -422,30 +422,30 @@
           <mxGeometry x="860" y="2200" width="225" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-131" value="Industrial Equipment" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="955" y="2270" width="180" height="49" as="geometry" />
+          <mxGeometry x="2315" y="1830" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-132" value="Manufacturing Equipment&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="626" y="2369" width="245" height="49" as="geometry" />
+          <mxGeometry x="1986" y="1929" width="245" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-133" value="Transportation Equipment" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="921" y="2369" width="247" height="49" as="geometry" />
+          <mxGeometry x="2281" y="1929" width="247" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-134" value="Infrastructure Equipment" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1218" y="2369" width="241" height="49" as="geometry" />
+          <mxGeometry x="2578" y="1929" width="241" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-135" value="Raw Material Processing&#xa;Energy Processing&#xa;Finished Product Processing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="620" y="2476" width="258" height="84" as="geometry" />
+          <mxGeometry x="1980" y="2036" width="258" height="84" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-136" value="Land Transport&#xa;Water Surface Transport&#xa;Underwater Transport&#xa;Air Transport" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="928" y="2467" width="234" height="101" as="geometry" />
+          <mxGeometry x="2288" y="2027" width="234" height="101" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-137" value="Roads&#xa;Bridges&#xa;Ports&#xa;Offshore Platforms" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1241" y="2467" width="195" height="101" as="geometry" />
+          <mxGeometry x="2601" y="2027" width="195" height="101" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-138" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-131" target="dbyF8KKO8Ka1DICQkb-6-132">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="749" y="2344" />
+              <mxPoint x="2109" y="1904" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -457,7 +457,7 @@
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-140" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-131" target="dbyF8KKO8Ka1DICQkb-6-134">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1339" y="2344" />
+              <mxPoint x="2699" y="1904" />
             </Array>
           </mxGeometry>
         </mxCell>
