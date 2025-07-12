@@ -351,8 +351,11 @@
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-89" value="Develop&#xa;Design&#xa;Analyze&#xa;Manufacture&#xa;Operate" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="827" y="1488.25" width="173" height="107.5" as="geometry" />
         </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-123" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-105" target="dbyF8KKO8Ka1DICQkb-6-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-105" value="mechanics" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1374" y="1830" width="90" height="90" as="geometry" />
+          <mxGeometry x="1360" y="2007.5" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-106" target="dbyF8KKO8Ka1DICQkb-6-105">
           <mxGeometry relative="1" as="geometry" />
@@ -361,7 +364,7 @@
           <mxGeometry x="1120" y="2028" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-107" value="Fluid Mechanics" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1440" y="1710" width="173" height="49" as="geometry" />
+          <mxGeometry x="1520" y="1938.5" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-108" value="Thermodynamics" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1648" y="1810" width="182" height="49" as="geometry" />
