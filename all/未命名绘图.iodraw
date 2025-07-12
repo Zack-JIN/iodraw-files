@@ -312,9 +312,6 @@
             <mxPoint x="590" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-82" value="Implementation" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="260" y="1466" width="328" height="507" as="geometry" />
-        </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-83" value="Flow of Thought" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="608" y="1320" width="260" height="437" as="geometry" />
         </mxCell>
