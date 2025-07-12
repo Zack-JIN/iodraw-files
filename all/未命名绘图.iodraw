@@ -26,7 +26,7 @@
           <mxGeometry x="283" y="334" width="171" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-7" value="Incubation, Transfer, Industrialization, Engineering" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="23" y="432" width="517" height="84" as="geometry" />
+          <mxGeometry x="23" y="432" width="517" height="38" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=2;fontSize=20;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-0" target="dbyF8KKO8Ka1DICQkb-6-1">
           <mxGeometry relative="1" as="geometry">
@@ -68,11 +68,6 @@
             <Array as="points">
               <mxPoint x="368" y="309" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;fontSize=20;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-3" target="dbyF8KKO8Ka1DICQkb-6-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
