@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="990" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1473" dy="1025" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -476,37 +476,37 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-144" value="First-Principle Thinking" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-144" value="First-Principle Thinking" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2277" y="2270" width="226" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-145" value="Concept Generation（Divergence）" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-145" value="Concept Generation（Divergence）" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2265" y="2369" width="251" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-146" value="Concept Modeling (MBSE Intervention)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-146" value="Concept Modeling (MBSE Intervention)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2276" y="2485" width="229" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-147" value="Analysis and Trade-off (MBSE Support)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-147" value="Analysis and Trade-off (MBSE Support)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2260" y="2601" width="260" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-148" value="Concept Selection (Convergence)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-148" value="Concept Selection (Convergence)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2295" y="2717" width="190" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-149" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=Times New Roman;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-144" target="dbyF8KKO8Ka1DICQkb-6-145">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-149" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-144" target="dbyF8KKO8Ka1DICQkb-6-145">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-150" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Times New Roman;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-145" target="dbyF8KKO8Ka1DICQkb-6-146">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-150" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-145" target="dbyF8KKO8Ka1DICQkb-6-146">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-151" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Times New Roman;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-146" target="dbyF8KKO8Ka1DICQkb-6-147">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-151" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-146" target="dbyF8KKO8Ka1DICQkb-6-147">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-152" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontFamily=Times New Roman;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-147" target="dbyF8KKO8Ka1DICQkb-6-148">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-152" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;fontFamily=Times New Roman;fontStyle=1;fontSize=20;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-147" target="dbyF8KKO8Ka1DICQkb-6-148">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
