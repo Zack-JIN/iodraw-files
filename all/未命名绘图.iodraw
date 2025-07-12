@@ -351,34 +351,34 @@
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-89" value="Develop&#xa;Design&#xa;Analyze&#xa;Manufacture&#xa;Operate" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="827" y="1488.25" width="173" height="107.5" as="geometry" />
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-105" value="mechanics" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-105" value="mechanics" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;fontSize=21;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1360" y="2007.5" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-106" target="dbyF8KKO8Ka1DICQkb-6-105">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;fontStyle=1;fontFamily=Times New Roman;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-106" target="dbyF8KKO8Ka1DICQkb-6-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-106" value="Solid mechanics" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-106" value="Solid mechanics" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1120" y="2028" width="174" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-107" value="Fluid Mechanics" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-107" value="Fluid Mechanics" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1520" y="1938.5" width="173" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-108" value="Thermodynamics" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-108" value="Thermodynamics" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1511" y="2108.5" width="182" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-109" value="Mechanical Structures" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-109" value="Mechanical Structures" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="860" y="1850.5" width="219" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-110" value="mechanical forces and energy" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-110" value="mechanical forces and energy" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="860" y="1930" width="221" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-111" value="Mechanical Materials" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-111" value="Mechanical Materials" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="860" y="2028" width="210" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-112" value="mechanical Manufacturing (processing)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-112" value="mechanical Manufacturing (processing)" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="846.5" y="2100" width="248" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-113" value="mechanical Controlling" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-113" value="mechanical Controlling" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="860" y="2200" width="225" height="49" as="geometry" />
         </mxCell>
       </root>
