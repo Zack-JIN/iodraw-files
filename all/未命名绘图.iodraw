@@ -421,6 +421,61 @@
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-113" value="mechanical Controlling" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="860" y="2200" width="225" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-131" value="Industrial Equipment" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="955" y="2270" width="180" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-132" value="Manufacturing Equipment&#xa;" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="626" y="2369" width="245" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-133" value="Transportation Equipment" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="921" y="2369" width="247" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-134" value="Infrastructure Equipment" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1218" y="2369" width="241" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-135" value="Raw Material Processing&#xa;Energy Processing&#xa;Finished Product Processing" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="620" y="2476" width="258" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-136" value="Land Transport&#xa;Water Surface Transport&#xa;Underwater Transport&#xa;Air Transport" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="928" y="2467" width="234" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-137" value="Roads&#xa;Bridges&#xa;Ports&#xa;Offshore Platforms" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1241" y="2467" width="195" height="101" as="geometry" />
+        </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-138" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-131" target="dbyF8KKO8Ka1DICQkb-6-132">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="749" y="2344" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-139" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-131" target="dbyF8KKO8Ka1DICQkb-6-133">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-140" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.8;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-131" target="dbyF8KKO8Ka1DICQkb-6-134">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1339" y="2344" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-141" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-132" target="dbyF8KKO8Ka1DICQkb-6-135">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-142" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-133" target="dbyF8KKO8Ka1DICQkb-6-136">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-143" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-134" target="dbyF8KKO8Ka1DICQkb-6-137">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
