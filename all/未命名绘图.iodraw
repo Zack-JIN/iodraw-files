@@ -352,36 +352,36 @@
           <mxGeometry x="827" y="1488.25" width="173" height="107.5" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-105" value="mechanics" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="844" y="1620" width="90" height="90" as="geometry" />
+          <mxGeometry x="1374" y="1830" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-106" value="Solid mechanics" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="578" y="1760" width="174" height="49" as="geometry" />
+          <mxGeometry x="1108" y="1970" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-107" value="Fluid Mechanics" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="802" y="1760" width="173" height="49" as="geometry" />
+          <mxGeometry x="1332" y="1970" width="173" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-108" value="Thermodynamics" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1025" y="1760" width="182" height="49" as="geometry" />
+          <mxGeometry x="1555" y="1970" width="182" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-109" value="Mechanical Structures" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="1867" width="219" height="49" as="geometry" />
+          <mxGeometry x="550" y="2077" width="219" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-110" value="mechanical forces and energy" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="289" y="1859" width="221" height="66" as="geometry" />
+          <mxGeometry x="819" y="2069" width="221" height="66" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-111" value="Mechanical Materials" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="560" y="1867" width="210" height="49" as="geometry" />
+          <mxGeometry x="1090" y="2077" width="210" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-112" value="mechanical Manufacturing (processing)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="820" y="1859" width="248" height="66" as="geometry" />
+          <mxGeometry x="1350" y="2069" width="248" height="66" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-113" value="mechanical Controlling" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1118" y="1867" width="225" height="49" as="geometry" />
+          <mxGeometry x="1648" y="2077" width="225" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-114" value="" style="curved=1;startArrow=none;endArrow=block;exitX=-0.01;exitY=0.66;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-105" target="dbyF8KKO8Ka1DICQkb-6-106">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="665" y="1735" />
+              <mxPoint x="1195" y="1945" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -393,21 +393,21 @@
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-116" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.99;exitY=0.65;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-105" target="dbyF8KKO8Ka1DICQkb-6-108">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1116" y="1735" />
+              <mxPoint x="1646" y="1945" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-117" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-106" target="dbyF8KKO8Ka1DICQkb-6-109">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="129" y="1834" />
+              <mxPoint x="659" y="2044" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-118" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.83;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-106" target="dbyF8KKO8Ka1DICQkb-6-110">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="399" y="1834" />
+              <mxPoint x="929" y="2044" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -419,14 +419,14 @@
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-120" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.81;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-106" target="dbyF8KKO8Ka1DICQkb-6-112">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="944" y="1834" />
+              <mxPoint x="1474" y="2044" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-121" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.65;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-106" target="dbyF8KKO8Ka1DICQkb-6-113">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1231" y="1834" />
+              <mxPoint x="1761" y="2044" />
             </Array>
           </mxGeometry>
         </mxCell>
