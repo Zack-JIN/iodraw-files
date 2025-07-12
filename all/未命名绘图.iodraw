@@ -84,13 +84,13 @@
           <mxGeometry x="2009" y="819" width="743" height="196" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-26" value="" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2940" y="584" width="644" height="196" as="geometry" />
+          <mxGeometry x="2772" y="389" width="644" height="196" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-27" value="Engineering Majors" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2247" y="720" width="196" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-28" value="1. Applied Science" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3053" y="844" width="60" height="30" as="geometry" />
+          <mxGeometry x="3053" y="414" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-29" value="2. Applied Mathematics" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2315" y="844" width="60" height="30" as="geometry" />
@@ -99,13 +99,13 @@
           <mxGeometry x="1087" y="844" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-31" value="1.1. Physics" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2807" y="932" width="144" height="49" as="geometry" />
+          <mxGeometry x="2807" y="502" width="144" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-32" value="1.2. Chemistry" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3000" y="932" width="165" height="49" as="geometry" />
+          <mxGeometry x="3000" y="502" width="165" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-33" value="1.3. Chemistry" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3216" y="932" width="165" height="49" as="geometry" />
+          <mxGeometry x="3216" y="502" width="165" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-34" value="2.1. Calculus" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2044" y="932" width="153" height="49" as="geometry" />
@@ -146,13 +146,6 @@
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-46" value="3.2.3. Production Equipment" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1770" y="1065" width="184" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-47" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.63;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-27" target="dbyF8KKO8Ka1DICQkb-6-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="3083" y="794" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-48" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-27" target="dbyF8KKO8Ka1DICQkb-6-29">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
@@ -168,7 +161,7 @@
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-50" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.68;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-28" target="dbyF8KKO8Ka1DICQkb-6-31">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="2879" y="899" />
+              <mxPoint x="2879" y="469" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -180,7 +173,7 @@
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-52" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-28" target="dbyF8KKO8Ka1DICQkb-6-33">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="3298" y="899" />
+              <mxPoint x="3298" y="469" />
             </Array>
           </mxGeometry>
         </mxCell>
