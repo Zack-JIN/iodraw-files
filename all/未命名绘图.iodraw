@@ -13,6 +13,9 @@
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-2" value="Technical Achievement" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="135" y="235" width="225" height="49" as="geometry" />
         </mxCell>
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-3" target="dbyF8KKO8Ka1DICQkb-6-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-3" value="Technical Application" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="334" width="213" height="49" as="geometry" />
         </mxCell>
@@ -26,7 +29,7 @@
           <mxGeometry x="283" y="334" width="171" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-7" value="Incubation, Transfer, Industrialization, Engineering" style="whiteSpace=wrap;strokeWidth=2;fontSize=20;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="23" y="432" width="517" height="38" as="geometry" />
+          <mxGeometry x="283" y="430" width="517" height="38" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-8" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=2;fontSize=20;fontStyle=1" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-0" target="dbyF8KKO8Ka1DICQkb-6-1">
           <mxGeometry relative="1" as="geometry">
