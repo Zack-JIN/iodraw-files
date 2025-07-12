@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1192" dy="830" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="720" dy="1569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -421,7 +421,7 @@
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-113" value="mechanical Controlling" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="860" y="2200" width="225" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-131" value="Industrial Equipment" style="rounded=1;arcSize=20;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-131" value="Industrial Equipment" style="rounded=1;arcSize=20;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=18;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2315" y="1830" width="180" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-132" value="Manufacturing Equipment&#xa;(Process Equipment)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -439,7 +439,7 @@
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-136" value="Land Transport&#xa;Water Surface Transport&#xa;Underwater Transport&#xa;Air Transport" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2288" y="2027" width="234" height="101" as="geometry" />
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-137" value="Roads&#xa;Bridges&#xa;Ports&#xa;Offshore Platforms" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-137" value="Roads&#xa;Bridges&#xa;Ports&#xa;Offshore Platforms" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=18;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2601" y="2027" width="195" height="101" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-138" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.5;entryY=-0.01;rounded=0;fontFamily=Times New Roman;fontStyle=1;fontSize=18;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-131" target="dbyF8KKO8Ka1DICQkb-6-132">
