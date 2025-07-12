@@ -424,8 +424,8 @@
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-131" value="Industrial Equipment" style="rounded=1;arcSize=20;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2315" y="1830" width="180" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-132" value="Manufacturing Equipment&#xa;(Process Equipment)&#xa;" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1986" y="1920" width="245" height="58" as="geometry" />
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-132" value="Manufacturing Equipment&#xa;(Process Equipment)" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1986" y="1929" width="245" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-133" value="Transportation Equipment" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Times New Roman;fontStyle=1;fontSize=18;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2281" y="1929" width="247" height="49" as="geometry" />
