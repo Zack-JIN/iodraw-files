@@ -357,13 +357,13 @@
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-122" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=21;fontStyle=1;fontFamily=Times New Roman;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-106" target="dbyF8KKO8Ka1DICQkb-6-105">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-106" value="Solid mechanics" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-106" value="Solid mechanics" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fontStyle=1;fontFamily=Times New Roman;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1120" y="2028" width="174" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-107" value="Fluid Mechanics" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1520" y="1938.5" width="173" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-108" value="Thermodynamics" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-108" value="Thermodynamics" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fontStyle=1;fontFamily=Times New Roman;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1511" y="2108.5" width="182" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-109" value="Mechanical Structures" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
