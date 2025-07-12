@@ -397,12 +397,13 @@
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-111" value="Mechanical Materials" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;fontStyle=1;fontFamily=Times New Roman;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="869" y="2028" width="210" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="dbyF8KKO8Ka1DICQkb-6-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-112">
+        <mxCell id="dbyF8KKO8Ka1DICQkb-6-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="dbyF8KKO8Ka1DICQkb-6-112" target="dbyF8KKO8Ka1DICQkb-6-106">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1120" y="2050" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1100" y="2133" />
               <mxPoint x="1100" y="2050" />
+              <mxPoint x="1120" y="2050" />
             </Array>
           </mxGeometry>
         </mxCell>
