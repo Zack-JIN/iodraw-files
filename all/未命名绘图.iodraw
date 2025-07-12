@@ -87,7 +87,7 @@
           <mxGeometry x="2772" y="389" width="644" height="196" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-27" value="Engineering Majors" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2247" y="720" width="196" height="49" as="geometry" />
+          <mxGeometry x="2160" y="620" width="283" height="149" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-28" value="1. Applied Science" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="3053" y="414" width="60" height="30" as="geometry" />
@@ -96,7 +96,7 @@
           <mxGeometry x="3078" y="665" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-30" value="3. Engineering Application" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="3127" y="985" width="60" height="30" as="geometry" />
+          <mxGeometry x="3050" y="970" width="137" height="45" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-31" value="1.1. Physics" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2807" y="502" width="144" height="49" as="geometry" />
