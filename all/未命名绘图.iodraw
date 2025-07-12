@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="863" dy="601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="273" dy="141" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -343,7 +343,7 @@
           <mxGeometry x="842.5" y="1390" width="142" height="49" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-87" value="Physics&#xa;Chemistry&#xa;Biology" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="441" y="1495.75" width="132" height="100" as="geometry" />
+          <mxGeometry x="441" y="1495.75" width="132" height="94.25" as="geometry" />
         </mxCell>
         <mxCell id="dbyF8KKO8Ka1DICQkb-6-88" value="Use mathematical language&#xa;to build models&#xa;mathematical model" style="whiteSpace=wrap;strokeWidth=2;fontStyle=1;fontSize=15;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="607" y="1493.25" width="177" height="97.5" as="geometry" />
