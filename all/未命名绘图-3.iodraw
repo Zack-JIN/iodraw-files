@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1628" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="788" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -605,7 +605,7 @@
           <mxGeometry x="1738" y="3990" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NoydobfvA38Pw067PLKH-6" value="破碎回收" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1351.25" y="4344" width="125" height="49" as="geometry" />
+          <mxGeometry x="1467.5" y="4482" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NoydobfvA38Pw067PLKH-7" value="全自动输送带" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1746" y="4107" width="156" height="49" as="geometry" />
@@ -655,11 +655,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1503.5" y="3970" />
-              <mxPoint x="1420" y="4140" />
-              <mxPoint x="1320" y="4160" />
               <mxPoint x="1503.5" y="4445" />
-              <mxPoint x="1340" y="4250" />
-              <mxPoint x="1440" y="4260" />
             </Array>
             <mxPoint x="1568.1666666666665" y="3933" as="sourcePoint" />
           </mxGeometry>
