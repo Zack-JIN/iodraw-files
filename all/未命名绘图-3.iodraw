@@ -602,7 +602,7 @@
           <mxGeometry x="1515.5" y="3769" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NoydobfvA38Pw067PLKH-4" value="在线初步检验&#xa;（尺寸、外观）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1539.5" y="3867" width="172" height="66" as="geometry" />
+          <mxGeometry x="1570.5" y="3880" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NoydobfvA38Pw067PLKH-5" value="退火处理&#xa;（消除内应力）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1604.5" y="4006" width="172" height="66" as="geometry" />
