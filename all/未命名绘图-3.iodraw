@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2442" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1628" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -602,25 +602,25 @@
           <mxGeometry x="1515.5" y="3769" width="220" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NoydobfvA38Pw067PLKH-5" value="退火处理&#xa;（消除内应力）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1604.5" y="4006" width="172" height="66" as="geometry" />
+          <mxGeometry x="1738" y="3990" width="172" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NoydobfvA38Pw067PLKH-6" value="破碎回收" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1467.5" y="4482" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NoydobfvA38Pw067PLKH-7" value="全自动输送带" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1612.5" y="4123" width="156" height="49" as="geometry" />
+          <mxGeometry x="1746" y="4107" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NoydobfvA38Pw067PLKH-8" value="冷却与定型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1620.5" y="4244" width="140" height="49" as="geometry" />
+          <mxGeometry x="1754" y="4228" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NoydobfvA38Pw067PLKH-9" value="全自动质量检验&#xa;（视觉检测系统）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1596.5" y="4343" width="188" height="66" as="geometry" />
+          <mxGeometry x="1730" y="4327" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NoydobfvA38Pw067PLKH-10" value="净化间内暂存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1652.5" y="4482" width="156" height="49" as="geometry" />
+          <mxGeometry x="1786" y="4466" width="156" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NoydobfvA38Pw067PLKH-11" value="流转至组装车间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1644.5" y="4580" width="172" height="49" as="geometry" />
+          <mxGeometry x="1778" y="4564" width="172" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NoydobfvA38Pw067PLKH-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-0" target="NoydobfvA38Pw067PLKH-1">
           <mxGeometry relative="1" as="geometry">
@@ -678,7 +678,7 @@
         <mxCell id="NoydobfvA38Pw067PLKH-21" value="合格品" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-9" target="NoydobfvA38Pw067PLKH-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1730.5" y="4445" />
+              <mxPoint x="1864" y="4429" />
             </Array>
           </mxGeometry>
         </mxCell>
