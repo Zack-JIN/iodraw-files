@@ -614,7 +614,7 @@
           <mxGeometry x="1754" y="4228" width="140" height="49" as="geometry" />
         </mxCell>
         <mxCell id="NoydobfvA38Pw067PLKH-9" value="全自动质量检验&#xa;（视觉检测系统）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1730" y="4327" width="188" height="66" as="geometry" />
+          <mxGeometry x="1730.5" y="4327" width="188" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NoydobfvA38Pw067PLKH-10" value="净化间内暂存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1786" y="4466" width="156" height="49" as="geometry" />
@@ -697,7 +697,7 @@
         <mxCell id="NoydobfvA38Pw067PLKH-24" value="在线初步检验&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;（尺寸、外观）" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1520.5" y="3867" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-25" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NoydobfvA38Pw067PLKH-25" value="全自动质量检验&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;（视觉检测系统）" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1520" y="4313" width="152.5" height="80" as="geometry" />
         </mxCell>
       </root>
