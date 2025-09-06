@@ -613,9 +613,6 @@
         <mxCell id="NoydobfvA38Pw067PLKH-8" value="冷却与定型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1754" y="4228" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-9" value="全自动质量检验&#xa;（视觉检测系统）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1730.5" y="4327" width="188" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="NoydobfvA38Pw067PLKH-10" value="净化间内暂存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1786" y="4466" width="156" height="49" as="geometry" />
         </mxCell>
@@ -670,23 +667,26 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-8" target="NoydobfvA38Pw067PLKH-9">
+        <mxCell id="NoydobfvA38Pw067PLKH-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-8" target="NoydobfvA38Pw067PLKH-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="1824.5" y="4327" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-21" value="合格品" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-9" target="NoydobfvA38Pw067PLKH-10">
+        <mxCell id="NoydobfvA38Pw067PLKH-21" value="合格品" style="curved=1;startArrow=none;endArrow=block;exitX=0.6;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="NoydobfvA38Pw067PLKH-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1864" y="4429" />
             </Array>
+            <mxPoint x="1843.2999999999997" y="4393" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-22" value="不合格品" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.71;entryY=-0.01;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-9" target="NoydobfvA38Pw067PLKH-6">
+        <mxCell id="NoydobfvA38Pw067PLKH-22" value="不合格品" style="curved=1;startArrow=none;endArrow=block;exitX=0.26;exitY=1;entryX=0.71;entryY=-0.01;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="NoydobfvA38Pw067PLKH-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1594.5" y="4445" />
             </Array>
+            <mxPoint x="1779.3800000000006" y="4393" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NoydobfvA38Pw067PLKH-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-10" target="NoydobfvA38Pw067PLKH-11">
@@ -698,7 +698,7 @@
           <mxGeometry x="1520.5" y="3867" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NoydobfvA38Pw067PLKH-25" value="全自动质量检验&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;（视觉检测系统）" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1520" y="4313" width="152.5" height="80" as="geometry" />
+          <mxGeometry x="1747.75" y="4330" width="152.5" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
