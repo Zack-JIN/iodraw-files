@@ -601,9 +601,6 @@
         <mxCell id="NoydobfvA38Pw067PLKH-3" value="机械手取件与浇口分离" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1515.5" y="3769" width="220" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-4" value="在线初步检验&#xa;（尺寸、外观）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1539.5" y="3867" width="172" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="NoydobfvA38Pw067PLKH-5" value="退火处理&#xa;（消除内应力）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1604.5" y="4006" width="172" height="66" as="geometry" />
         </mxCell>
@@ -640,24 +637,27 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-3" target="NoydobfvA38Pw067PLKH-4">
+        <mxCell id="NoydobfvA38Pw067PLKH-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-3">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="1625.5" y="3867" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-16" value="合格品" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-4" target="NoydobfvA38Pw067PLKH-5">
+        <mxCell id="NoydobfvA38Pw067PLKH-16" value="合格品" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="NoydobfvA38Pw067PLKH-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1690.5" y="3970" />
             </Array>
+            <mxPoint x="1655.8529411764707" y="3933" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-17" value="不合格品" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=1.01;entryX=0.41;entryY=-0.01;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-4" target="NoydobfvA38Pw067PLKH-6">
+        <mxCell id="NoydobfvA38Pw067PLKH-17" value="不合格品" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=1.01;entryX=0.41;entryY=-0.01;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="NoydobfvA38Pw067PLKH-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1503.5" y="3970" />
               <mxPoint x="1503.5" y="4445" />
             </Array>
+            <mxPoint x="1568.1666666666665" y="3933" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NoydobfvA38Pw067PLKH-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-5" target="NoydobfvA38Pw067PLKH-7">
@@ -694,8 +694,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-24" value="在线初步检验&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;（尺寸、外观）" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1260" y="3867" width="210" height="80" as="geometry" />
+        <mxCell id="NoydobfvA38Pw067PLKH-24" value="在线初步检验&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;（尺寸、外观）" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1515.5" y="3867" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
