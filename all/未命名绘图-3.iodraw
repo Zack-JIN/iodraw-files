@@ -643,7 +643,7 @@
             <mxPoint x="1625.5" y="3867" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-16" value="合格品" style="curved=1;startArrow=none;endArrow=block;exitX=0.68;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="NoydobfvA38Pw067PLKH-5">
+        <mxCell id="NoydobfvA38Pw067PLKH-16" value="合格品" style="curved=1;startArrow=none;endArrow=block;exitX=0.694;exitY=0.754;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-24" target="NoydobfvA38Pw067PLKH-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1690.5" y="3970" />
@@ -651,7 +651,7 @@
             <mxPoint x="1655.8529411764707" y="3933" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-17" value="不合格品" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=1.01;entryX=0.41;entryY=-0.01;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="NoydobfvA38Pw067PLKH-6">
+        <mxCell id="NoydobfvA38Pw067PLKH-17" value="不合格品" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.41;entryY=-0.01;rounded=0;strokeWidth=2;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-24" target="NoydobfvA38Pw067PLKH-6">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1503.5" y="3970" />
@@ -695,7 +695,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="NoydobfvA38Pw067PLKH-24" value="在线初步检验&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;（尺寸、外观）" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1515.5" y="3867" width="210" height="80" as="geometry" />
+          <mxGeometry x="1520.5" y="3867" width="210" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
