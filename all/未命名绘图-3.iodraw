@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="611" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -589,58 +589,58 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-0" value="原料预处理&#xa;（PP/PE/ABS等）" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NoydobfvA38Pw067PLKH-0" value="原料预处理&#xa;（PP/PE/ABS等）" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Helvetica;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1532.5" y="3420" width="186" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-1" value="干燥与配色" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NoydobfvA38Pw067PLKH-1" value="干燥与配色" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1555.5" y="3536" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-2" value="注塑成型&#xa;（上料 → 塑化 → 注射 → 保压 → 冷却）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NoydobfvA38Pw067PLKH-2" value="注塑成型&#xa;（上料 → 塑化 → 注射 → 保压 → 冷却）" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1503.5" y="3635" width="244" height="84" as="geometry" />
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-3" value="机械手取件与浇口分离" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NoydobfvA38Pw067PLKH-3" value="机械手取件与浇口分离" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1515.5" y="3769" width="220" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-5" value="退火处理&#xa;（消除内应力）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NoydobfvA38Pw067PLKH-5" value="退火处理&#xa;（消除内应力）" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1760" y="3960" width="172" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-6" value="破碎回收" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NoydobfvA38Pw067PLKH-6" value="破碎回收" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1467.5" y="4482" width="125" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-7" value="全自动输送带" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NoydobfvA38Pw067PLKH-7" value="全自动输送带" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1768" y="4077" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-8" value="冷却与定型" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NoydobfvA38Pw067PLKH-8" value="冷却与定型" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1776" y="4198" width="140" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-10" value="净化间内暂存" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NoydobfvA38Pw067PLKH-10" value="净化间内暂存" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1808" y="4436" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-11" value="流转至组装车间" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NoydobfvA38Pw067PLKH-11" value="流转至组装车间" style="whiteSpace=wrap;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1800" y="4534" width="172" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-0" target="NoydobfvA38Pw067PLKH-1">
+        <mxCell id="NoydobfvA38Pw067PLKH-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-0" target="NoydobfvA38Pw067PLKH-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-1" target="NoydobfvA38Pw067PLKH-2">
+        <mxCell id="NoydobfvA38Pw067PLKH-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-1" target="NoydobfvA38Pw067PLKH-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-2" target="NoydobfvA38Pw067PLKH-3">
+        <mxCell id="NoydobfvA38Pw067PLKH-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-2" target="NoydobfvA38Pw067PLKH-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-3">
+        <mxCell id="NoydobfvA38Pw067PLKH-15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="1625.5" y="3867" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-16" value="合格品" style="curved=1;startArrow=none;endArrow=block;exitX=0.694;exitY=0.754;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-24" target="NoydobfvA38Pw067PLKH-5">
+        <mxCell id="NoydobfvA38Pw067PLKH-16" value="合格品" style="curved=1;startArrow=none;endArrow=block;exitX=0.694;exitY=0.754;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=2;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-24" target="NoydobfvA38Pw067PLKH-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1730" y="3940" />
@@ -648,7 +648,7 @@
             <mxPoint x="1655.8529411764707" y="3933" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-17" value="不合格品" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.41;entryY=-0.01;rounded=0;strokeWidth=2;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-24" target="NoydobfvA38Pw067PLKH-6">
+        <mxCell id="NoydobfvA38Pw067PLKH-17" value="不合格品" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.41;entryY=-0.01;rounded=0;strokeWidth=2;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-24" target="NoydobfvA38Pw067PLKH-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1503.5" y="3970" />
@@ -657,23 +657,23 @@
             <mxPoint x="1568.1666666666665" y="3933" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-5" target="NoydobfvA38Pw067PLKH-7">
+        <mxCell id="NoydobfvA38Pw067PLKH-18" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-5" target="NoydobfvA38Pw067PLKH-7" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-7" target="NoydobfvA38Pw067PLKH-8">
+        <mxCell id="NoydobfvA38Pw067PLKH-19" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-7" target="NoydobfvA38Pw067PLKH-8" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-8" target="NoydobfvA38Pw067PLKH-25">
+        <mxCell id="NoydobfvA38Pw067PLKH-20" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;strokeWidth=2;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-8" target="NoydobfvA38Pw067PLKH-25" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
             <mxPoint x="1846.5" y="4297" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-21" value="合格品" style="curved=1;startArrow=none;endArrow=block;exitX=0.672;exitY=0.81;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=2;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-25" target="NoydobfvA38Pw067PLKH-10">
+        <mxCell id="NoydobfvA38Pw067PLKH-21" value="合格品" style="curved=1;startArrow=none;endArrow=block;exitX=0.672;exitY=0.81;entryX=0.5;entryY=-0.01;rounded=0;strokeWidth=2;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-25" target="NoydobfvA38Pw067PLKH-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1886" y="4399" />
@@ -681,7 +681,7 @@
             <mxPoint x="1865.2999999999997" y="4363" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-22" value="不合格品" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.71;entryY=-0.01;rounded=0;strokeWidth=2;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-25" target="NoydobfvA38Pw067PLKH-6">
+        <mxCell id="NoydobfvA38Pw067PLKH-22" value="不合格品" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=1;entryX=0.71;entryY=-0.01;rounded=0;strokeWidth=2;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-25" target="NoydobfvA38Pw067PLKH-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1594.5" y="4445" />
@@ -689,16 +689,19 @@
             <mxPoint x="1779.3800000000006" y="4393" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-10" target="NoydobfvA38Pw067PLKH-11">
+        <mxCell id="NoydobfvA38Pw067PLKH-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NoydobfvA38Pw067PLKH-10" target="NoydobfvA38Pw067PLKH-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-24" value="在线初步检验&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;（尺寸、外观）" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NoydobfvA38Pw067PLKH-24" value="在线初步检验&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;（尺寸、外观）" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1520.5" y="3867" width="210" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-25" value="全自动质量检验&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;（视觉检测系统）" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NoydobfvA38Pw067PLKH-25" value="全自动质量检验&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;（视觉检测系统）" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1765.87" y="4300" width="160.25" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="5kG4RnSbmvn5Wry1hAbP-0" value="流程说明：&#xa;开采出的&amp;lt;800mm矿石经给料机均匀送入颚式破碎机进行粗碎。&#xa;粗碎后的物料进入圆锥破碎机进行中碎，进一步减小粒度。&#xa;中碎后的物料进入球磨机进行细磨。&#xa;从球磨机排出的物料被送入空气选粉机进行分级。&#xa;分级后，粒度合格的细粉（&amp;lt;80μm）作为最终产品送入成品仓。&#xa;粒度不合格的粗粉被重新送回球磨机进行再次研磨，形成闭路循环，确保产品质量并提高粉磨效率" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="740" y="620" width="560" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
