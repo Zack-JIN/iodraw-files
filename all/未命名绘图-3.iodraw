@@ -589,7 +589,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="NoydobfvA38Pw067PLKH-0" value="原料预处理&#xa;（PP/PE/ABS等）" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Comic Sans MS;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="NoydobfvA38Pw067PLKH-0" value="原料预处理&#xa;（PP/PE/ABS等）" style="whiteSpace=wrap;strokeWidth=2;fontFamily=Helvetica;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1532.5" y="3420" width="186" height="66" as="geometry" />
         </mxCell>
         <mxCell id="NoydobfvA38Pw067PLKH-1" value="干燥与配色" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
