@@ -700,9 +700,6 @@
         <mxCell id="NoydobfvA38Pw067PLKH-25" value="全自动质量检验&lt;br style=&quot;padding: 0px; margin: 0px;&quot;&gt;（视觉检测系统）" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1765.87" y="4300" width="160.25" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="5kG4RnSbmvn5Wry1hAbP-0" value="流程说明：&#xa;开采出的&amp;lt;800mm矿石经给料机均匀送入颚式破碎机进行粗碎。&#xa;粗碎后的物料进入圆锥破碎机进行中碎，进一步减小粒度。&#xa;中碎后的物料进入球磨机进行细磨。&#xa;从球磨机排出的物料被送入空气选粉机进行分级。&#xa;分级后，粒度合格的细粉（&amp;lt;80μm）作为最终产品送入成品仓。&#xa;粒度不合格的粗粉被重新送回球磨机进行再次研磨，形成闭路循环，确保产品质量并提高粉磨效率" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="740" y="620" width="560" height="120" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
