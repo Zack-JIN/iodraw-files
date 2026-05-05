@@ -137,6 +137,12 @@
         <mxCell id="UlAyQvx4fxY8iU_1_meA-33" value="Edge Computing Node: Raspberry Pi 4B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1340" y="880" width="552" height="875" as="geometry" />
         </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-34" value="Cloud AI &amp; Knowledge Services" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="890" y="1520" width="398" height="213" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-35" value="Mobile / Desktop Terminal" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="592" y="1040" width="235" height="463" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
