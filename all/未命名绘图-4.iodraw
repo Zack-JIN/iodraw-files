@@ -5,7 +5,7 @@
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="UlAyQvx4fxY8iU_1_meA-0" value="Mobile / Desktop Terminal" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="682" width="235" height="463" as="geometry" />
+          <mxGeometry x="350" y="150" width="235" height="463" as="geometry" />
         </mxCell>
         <mxCell id="UlAyQvx4fxY8iU_1_meA-1" value="Cloud AI &amp; Knowledge Services" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="275" y="682" width="398" height="213" as="geometry" />
@@ -47,10 +47,10 @@
           <mxGeometry x="500" y="707" width="138" height="138" as="geometry" />
         </mxCell>
         <mxCell id="UlAyQvx4fxY8iU_1_meA-14" value="Feishu / Lark&#xa;Enterprise App" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="55" y="743" width="165" height="66" as="geometry" />
+          <mxGeometry x="385" y="211" width="165" height="66" as="geometry" />
         </mxCell>
         <mxCell id="UlAyQvx4fxY8iU_1_meA-15" value="O&amp;M Engineer" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="61" y="967" width="152" height="152" as="geometry" />
+          <mxGeometry x="391" y="435" width="152" height="152" as="geometry" />
         </mxCell>
         <mxCell id="UlAyQvx4fxY8iU_1_meA-16" value="1. Real-time Video Frames" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlAyQvx4fxY8iU_1_meA-6" target="UlAyQvx4fxY8iU_1_meA-7">
           <mxGeometry relative="1" as="geometry">
@@ -132,20 +132,6 @@
               <mxPoint x="783" y="682" />
               <mxPoint x="783" y="655" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="UlAyQvx4fxY8iU_1_meA-29" value="Mobile / Desktop Terminal" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="100" width="235" height="463" as="geometry" />
-        </mxCell>
-        <mxCell id="UlAyQvx4fxY8iU_1_meA-30" value="Feishu / Lark&#xa;Enterprise App" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="75" y="161" width="165" height="66" as="geometry" />
-        </mxCell>
-        <mxCell id="UlAyQvx4fxY8iU_1_meA-31" value="O&amp;M Engineer" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="81" y="385" width="152" height="152" as="geometry" />
-        </mxCell>
-        <mxCell id="UlAyQvx4fxY8iU_1_meA-32" value="View &amp; Type" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" source="UlAyQvx4fxY8iU_1_meA-30" target="UlAyQvx4fxY8iU_1_meA-31" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
       </root>
