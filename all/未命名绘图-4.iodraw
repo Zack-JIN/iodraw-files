@@ -149,7 +149,7 @@
         <mxCell id="UlAyQvx4fxY8iU_1_meA-37" value="Cloud AI Services" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2062" y="1932" width="219" height="231" as="geometry" />
         </mxCell>
-        <mxCell id="UlAyQvx4fxY8iU_1_meA-38" value="Edge Computing Node" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-38" value="Edge Computing Node" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1320" y="1780" width="569" height="383" as="geometry" />
         </mxCell>
         <mxCell id="UlAyQvx4fxY8iU_1_meA-39" value="Vision Perception" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
