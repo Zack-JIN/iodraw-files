@@ -4,6 +4,136 @@
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-0" value="Mobile / Desktop Terminal" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="20" y="682" width="235" height="463" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-1" value="Cloud AI &amp; Knowledge Services" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="275" y="682" width="398" height="213" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-2" value="Edge Computing Node: Raspberry Pi 4B" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="693" y="20" width="552" height="875" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-3" value="Process 2: O&amp;M Agent Brain" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="713" y="536" width="512" height="333" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-4" value="Inter-Process Communication" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="342" width="210" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-5" value="Process 1: Vision Perception" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="729" y="171" width="250" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-6" value="USB/CSI&#xa;Camera" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="818" y="45" width="72" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-7" value="YOLOv11 ONNX&#xa;Inference Engine" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="764" y="196" width="180" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-8" value="status.json&#xa;Atomic Temp File" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="785" y="367" width="140" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-9" value="Debounce Controller&#xa;&amp;amp; State Machine" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="748" y="561" width="213" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-10" value="Streamlit UI&#xa;Local Dashboard" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="824" y="743" width="177" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-11" value="history.json&#xa;Local Persistence" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1051" y="730" width="139" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-12" value="Neo4j AuraDB&#xa;Knowledge Graph" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="310" y="730" width="140" height="91" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-13" value="DeepSeek LLM&#xa;Reasoning Engine" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="500" y="707" width="138" height="138" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-14" value="Feishu / Lark&#xa;Enterprise App" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="55" y="743" width="165" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-15" value="O&amp;M Engineer" style="ellipse;aspect=fixed;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="61" y="967" width="152" height="152" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-16" value="1. Real-time Video Frames" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlAyQvx4fxY8iU_1_meA-6" target="UlAyQvx4fxY8iU_1_meA-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-17" value="2. Write Label &amp;amp; Confidence&#xa;(Atomic I/O)" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlAyQvx4fxY8iU_1_meA-7" target="UlAyQvx4fxY8iU_1_meA-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-18" value="3. High-frequency Polling" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlAyQvx4fxY8iU_1_meA-8" target="UlAyQvx4fxY8iU_1_meA-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-19" value="4. Read/Write Context" style="curved=1;startArrow=block;endArrow=block;exitX=1;exitY=0.87;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlAyQvx4fxY8iU_1_meA-9" target="UlAyQvx4fxY8iU_1_meA-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1120" y="655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-20" value="" style="curved=1;startArrow=block;endArrow=block;exitX=0.65;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlAyQvx4fxY8iU_1_meA-9" target="UlAyQvx4fxY8iU_1_meA-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="913" y="655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-21" value="View &amp; Type" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlAyQvx4fxY8iU_1_meA-14" target="UlAyQvx4fxY8iU_1_meA-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-22" value="5. Cypher Query&#xa;(TCP/IP)" style="curved=1;startArrow=none;endArrow=block;exitX=0.38;exitY=1.01;entryX=1;entryY=0.33;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlAyQvx4fxY8iU_1_meA-9" target="UlAyQvx4fxY8iU_1_meA-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="807" y="655" />
+              <mxPoint x="807" y="682" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-23" value="6. Sub-graph Entities &amp; SOP" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.34;entryX=0.44;entryY=1.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlAyQvx4fxY8iU_1_meA-12" target="UlAyQvx4fxY8iU_1_meA-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="831" y="682" />
+              <mxPoint x="831" y="655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-24" value="7. System Prompt + Context&#xa;(REST API HTTPS)" style="curved=1;startArrow=none;endArrow=block;exitX=0.53;exitY=1.01;entryX=1;entryY=0.34;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlAyQvx4fxY8iU_1_meA-9" target="UlAyQvx4fxY8iU_1_meA-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="867" y="655" />
+              <mxPoint x="867" y="682" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-25" value="8. Diagnostic Report" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.35;entryX=0.59;entryY=1.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlAyQvx4fxY8iU_1_meA-13" target="UlAyQvx4fxY8iU_1_meA-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="891" y="682" />
+              <mxPoint x="891" y="655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-26" value="9. Upload Image &amp;amp; Push Card&#xa;(Feishu REST API)" style="curved=1;startArrow=none;endArrow=block;exitX=0.25;exitY=1.01;entryX=1;entryY=0.31;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlAyQvx4fxY8iU_1_meA-9" target="UlAyQvx4fxY8iU_1_meA-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="759" y="655" />
+              <mxPoint x="759" y="682" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-27" value="10. User Follow-up Query&#xa;(WebSocket / WSS)" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.31;entryX=0.31;entryY=1.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlAyQvx4fxY8iU_1_meA-14" target="UlAyQvx4fxY8iU_1_meA-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="783" y="682" />
+              <mxPoint x="783" y="655" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
