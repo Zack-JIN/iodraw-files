@@ -143,6 +143,83 @@
         <mxCell id="UlAyQvx4fxY8iU_1_meA-35" value="Mobile / Desktop Terminal" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="961" y="960" width="235" height="463" as="geometry" />
         </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-36" value="Interaction Terminal" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2062" y="1780" width="219" height="132" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-37" value="Cloud AI Services" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2062" y="1932" width="219" height="231" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-38" value="Edge Computing Node" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1320" y="1780" width="569" height="383" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-39" value="Vision Perception" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1345" y="1979" width="184" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-40" value="O&amp;M Agent" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1689" y="1979" width="175" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-41" value="Neo4j GraphDB" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2087" y="1979" width="169" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-42" value="DeepSeek LLM" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2090" y="2077" width="162" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-43" value="Feishu Client" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2094" y="1827" width="153" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-44" value="Anomaly Label" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.49;entryX=0;entryY=0.49;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlAyQvx4fxY8iU_1_meA-39" target="UlAyQvx4fxY8iU_1_meA-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-45" value="Cypher Query" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.15;entryX=0;entryY=0.15;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlAyQvx4fxY8iU_1_meA-40" target="UlAyQvx4fxY8iU_1_meA-41">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1889" y="1982" />
+              <mxPoint x="2062" y="1982" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-46" value="Knowledge Data" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.93;entryX=1;entryY=0.93;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlAyQvx4fxY8iU_1_meA-41" target="UlAyQvx4fxY8iU_1_meA-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2062" y="2031" />
+              <mxPoint x="1889" y="2031" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-47" value="Context Prompt" style="curved=1;startArrow=none;endArrow=block;exitX=0.72;exitY=0.99;entryX=0;entryY=0.08;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlAyQvx4fxY8iU_1_meA-40" target="UlAyQvx4fxY8iU_1_meA-42">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1889" y="2074" />
+              <mxPoint x="2062" y="2074" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-48" value="Text Report" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.83;entryX=0.63;entryY=0.99;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlAyQvx4fxY8iU_1_meA-42" target="UlAyQvx4fxY8iU_1_meA-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2062" y="2123" />
+              <mxPoint x="1889" y="2123" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-49" value="Multimodal Card" style="curved=1;startArrow=none;endArrow=block;exitX=0.59;exitY=-0.01;entryX=0;entryY=0.18;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlAyQvx4fxY8iU_1_meA-40" target="UlAyQvx4fxY8iU_1_meA-43">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1889" y="1830" />
+              <mxPoint x="2062" y="1830" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UlAyQvx4fxY8iU_1_meA-50" value="Chat Query" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.8;entryX=0.62;entryY=-0.01;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="UlAyQvx4fxY8iU_1_meA-43" target="UlAyQvx4fxY8iU_1_meA-40">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2062" y="1872" />
+              <mxPoint x="1889" y="1872" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
