@@ -703,7 +703,7 @@
         <mxCell id="LDPjOgF3b9t9EQypVDZB-0" value="Track 3: Cloud Services" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1043" y="4946" width="261" height="222" as="geometry" />
         </mxCell>
-        <mxCell id="LDPjOgF3b9t9EQypVDZB-1" value="Track 2: Knowledge Base" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="LDPjOgF3b9t9EQypVDZB-1" value="Track 2: Knowledge Base" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="727" y="4724" width="296" height="321" as="geometry" />
         </mxCell>
         <mxCell id="LDPjOgF3b9t9EQypVDZB-2" value="Track 1: Vision Perception" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
