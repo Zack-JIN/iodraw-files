@@ -816,10 +816,10 @@
           <mxGeometry x="1859" y="5540" width="225" height="66" as="geometry" />
         </mxCell>
         <mxCell id="rY-gO8dwAtZeRjEkALMV-5" value="4. 3DS力评估+EMG采集&#xa;次数+功率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1653" y="5656" width="252" height="30" as="geometry" />
+          <mxGeometry x="1653" y="5656" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="rY-gO8dwAtZeRjEkALMV-6" value="5. 数据预处理&#xa;滤波+整流+平滑+归一化+时域分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1653" y="5736" width="60" height="30" as="geometry" />
+          <mxGeometry x="1653" y="5736" width="252" height="30" as="geometry" />
         </mxCell>
         <mxCell id="rY-gO8dwAtZeRjEkALMV-7" value="6. 提取特征值&#xa;时域+RMS/MNF/SAMPEN/MT/CCI" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1653" y="5816" width="60" height="30" as="geometry" />
