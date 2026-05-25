@@ -801,7 +801,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rY-gO8dwAtZeRjEkALMV-0" value="1. 文献系统回顾" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1653" y="5380" width="252" height="30" as="geometry" />
+          <mxGeometry x="1557" y="5360" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="rY-gO8dwAtZeRjEkALMV-1" value="2. 招募测试&#xa;n=20, 测试顺序: IPAQ分组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1653" y="5460" width="60" height="30" as="geometry" />
