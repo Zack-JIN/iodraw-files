@@ -830,7 +830,7 @@
         <mxCell id="rY-gO8dwAtZeRjEkALMV-7" value="6. 提取特征值&#xa;时序+RMS/MNF/SAMPEN/WT/CCI" style="whiteSpace=wrap;strokeWidth=3;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1557" y="5800" width="253" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="rY-gO8dwAtZeRjEkALMV-8" value="7. 统计分析" style="whiteSpace=wrap;strokeWidth=3;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="rY-gO8dwAtZeRjEkALMV-8" value="7. 统计分析+可视化" style="whiteSpace=wrap;strokeWidth=3;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1557" y="5888" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="rY-gO8dwAtZeRjEkALMV-9" value="8. 可视化" style="whiteSpace=wrap;strokeWidth=3;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
