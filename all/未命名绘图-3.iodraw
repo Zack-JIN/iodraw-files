@@ -828,9 +828,9 @@
           <mxGeometry x="1557" y="5712" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="rY-gO8dwAtZeRjEkALMV-7" value="6. 提取特征值&#xa;时序+RMS/MNF/SAMPEN/WT/CCI" style="whiteSpace=wrap;strokeWidth=3;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="1557" y="5800" width="252" height="66" as="geometry" />
+          <mxGeometry x="1557" y="5800" width="253" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="rY-gO8dwAtZeRjEkALMV-8" value="7. 统计分析&#xa;正态检验 / t检验 / Spearman / ANOVA / PCA" style="whiteSpace=wrap;strokeWidth=3;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="rY-gO8dwAtZeRjEkALMV-8" value="7. 统计分析" style="whiteSpace=wrap;strokeWidth=3;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1557" y="5888" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="rY-gO8dwAtZeRjEkALMV-9" value="8. 可视化+机制解读&#xa;雷达图+3D散点+临床建议" style="whiteSpace=wrap;strokeWidth=3;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
