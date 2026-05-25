@@ -803,7 +803,7 @@
         <mxCell id="rY-gO8dwAtZeRjEkALMV-0" value="1. 文献系统回顾" style="whiteSpace=wrap;strokeWidth=3;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1557" y="5360" width="252" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="rY-gO8dwAtZeRjEkALMV-1" value="2. 招募测试&#xa;n=20, 被试编号,  IPAQ分组" style="whiteSpace=wrap;strokeWidth=3;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="rY-gO8dwAtZeRjEkALMV-1" value="2. 招募被试&#xa;n=20, 被试编号,  IPAQ分组" style="whiteSpace=wrap;strokeWidth=3;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1557" y="5448" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="EboXr5g3DODUs-EKH6Uo-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rY-gO8dwAtZeRjEkALMV-2" target="rY-gO8dwAtZeRjEkALMV-5">
