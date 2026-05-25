@@ -821,7 +821,7 @@
         <mxCell id="rY-gO8dwAtZeRjEkALMV-4" value="3.3 4M加速收集&#xa;SEMA指标, 3DSMA/MVC" style="whiteSpace=wrap;strokeWidth=3;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1859" y="5540" width="225" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="rY-gO8dwAtZeRjEkALMV-5" value="4. 3DS力评估+EMG采集&#xa;次数+功率" style="whiteSpace=wrap;strokeWidth=3;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="rY-gO8dwAtZeRjEkALMV-5" value="4. 30sSTS同步sEMG采集&#xa;次数+功率" style="whiteSpace=wrap;strokeWidth=3;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="1557" y="5624" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="rY-gO8dwAtZeRjEkALMV-6" value="5. 数据预处理&#xa;滤波+整流+平滑+归一化+时域分析" style="whiteSpace=wrap;strokeWidth=3;fontStyle=1;fontSize=16;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
