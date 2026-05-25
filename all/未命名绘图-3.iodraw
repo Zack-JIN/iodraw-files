@@ -804,7 +804,7 @@
           <mxGeometry x="1557" y="5360" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="rY-gO8dwAtZeRjEkALMV-1" value="2. 招募测试&#xa;n=20, 测试顺序: IPAQ分组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1653" y="5460" width="252" height="30" as="geometry" />
+          <mxGeometry x="1652" y="5460" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="rY-gO8dwAtZeRjEkALMV-2" value="3.1 基础信息采集&#xa;年龄/身高/体重/BMI" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1301" y="5540" width="206" height="66" as="geometry" />
