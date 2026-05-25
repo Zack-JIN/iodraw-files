@@ -804,7 +804,7 @@
           <mxGeometry x="1557" y="5360" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="rY-gO8dwAtZeRjEkALMV-1" value="2. 招募测试&#xa;n=20, 测试顺序: IPAQ分组" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1652" y="5460" width="252" height="66" as="geometry" />
+          <mxGeometry x="1557" y="5460" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="rY-gO8dwAtZeRjEkALMV-2" value="3.1 基础信息采集&#xa;年龄/身高/体重/BMI" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="1301" y="5540" width="206" height="66" as="geometry" />
@@ -816,19 +816,19 @@
           <mxGeometry x="1859" y="5540" width="225" height="66" as="geometry" />
         </mxCell>
         <mxCell id="rY-gO8dwAtZeRjEkALMV-5" value="4. 3DS力评估+EMG采集&#xa;次数+功率" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1653" y="5656" width="252" height="66" as="geometry" />
+          <mxGeometry x="1557" y="5656" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="rY-gO8dwAtZeRjEkALMV-6" value="5. 数据预处理&#xa;滤波+整流+平滑+归一化+时域分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1653" y="5736" width="252" height="66" as="geometry" />
+          <mxGeometry x="1557" y="5736" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="rY-gO8dwAtZeRjEkALMV-7" value="6. 提取特征值&#xa;时域+RMS/MNF/SAMPEN/MT/CCI" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1653" y="5816" width="252" height="66" as="geometry" />
+          <mxGeometry x="1557" y="5816" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="rY-gO8dwAtZeRjEkALMV-8" value="7. 统计分析&#xa;正态检验/t检验/Spearman/ANOVA/PCA" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1653" y="5896" width="252" height="66" as="geometry" />
+          <mxGeometry x="1557" y="5896" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="rY-gO8dwAtZeRjEkALMV-9" value="8. 可视化+机制解读&#xa;雷达图+3D散点+临床建议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="1653" y="5976" width="252" height="30" as="geometry" />
+          <mxGeometry x="1557" y="5976" width="252" height="66" as="geometry" />
         </mxCell>
         <mxCell id="rY-gO8dwAtZeRjEkALMV-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="rY-gO8dwAtZeRjEkALMV-0" target="rY-gO8dwAtZeRjEkALMV-1">
           <mxGeometry relative="1" as="geometry">
